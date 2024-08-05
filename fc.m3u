@@ -1,5 +1,9 @@
-<html><head><title>500 Internal Server Error</title></head><body>
-<h2>Request Timeout</h2>
-<p>This request takes too long to process, it is timed out by the server. If it should not be timed out, please contact administrator of this web site to increase 'Connection Timeout'.
-</p>
-</body></html>
+#EXTM3U
+#EXTINF:-1 tvg-id="103523" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/103523_4258_WEF-W_SOB-W_fc-Web_1722330005008.jpg" group-title="cricket",the hundred women 2024
+https://dai.google.com/linear/hls/event/aHpjRb9ISoGHa736nfypng/master.m3u8
+#EXTINF:-1 tvg-id="105969" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/07/105969_4349_SJ_BTM_fc-web.jpg" group-title="cricket",global t20 canada 2024
+https://dai.google.com/linear/hls/event/fen9ubVpQH2_zjiM4zLglg/master.m3u8
+#EXTINF:-1 tvg-id="106355" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/106355_4363_VMK_OAW_fc-web_1722522670005.jpg" group-title="cricket",pondicherry premier league 2024
+https://dai.google.com/linear/hls/event/1Sg_O-L0TWuc5-6pe6Za7w/master.m3u8
+#EXTINF:-1 tvg-id="106148" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/07/ECS-Bulgaria_old_01.jpg" group-title="cricket",ecs bulgaria 2024 
+https://dai.google.com/linear/hls/event/MZXgzs4URcOPBnaCAWyDzQ/master.m3u8
