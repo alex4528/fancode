@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="106354" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/106354_4363_KAK_MMS_fc-web_1722522669938.jpg" group-title="cricket",pondicherry premier league 2024
 https://dai.google.com/linear/hls/event/DY8CL2DRTCepY2sVj_gLYA/master.m3u8
-#EXTINF:-1 tvg-id="106146" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/07/ECS-Bulgaria_old_04.jpg" group-title="cricket",ecs bulgaria 2024 
-https://dai.google.com/linear/hls/event/TVnSTp0QSV63suLv2fQVeA/master.m3u8
 #EXTINF:-1 tvg-id="105856" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/07/Pratapgarh-Cricket-Championship-old-Match-card1.png" group-title="cricket",pratapgarh cricket championship 2024
 https://dai.google.com/linear/hls/event/NhNCI9zLT_qcXeXdthQ8Kw/master.m3u8
+#EXTINF:-1 tvg-id="106146" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/07/ECS-Bulgaria_old_04.jpg" group-title="cricket",ecs bulgaria 2024 
+https://dai.google.com/linear/hls/event/TVnSTp0QSV63suLv2fQVeA/master.m3u8
