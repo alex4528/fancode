@@ -1,5 +1,9 @@
-<html><head><title>500 Internal Server Error</title></head><body>
-<h2>Request Timeout</h2>
-<p>This request takes too long to process, it is timed out by the server. If it should not be timed out, please contact administrator of this web site to increase 'Connection Timeout'.
-</p>
-</body></html>
+#EXTM3U
+#EXTINF:-1 tvg-id="105971" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/07/105971_4349_BRW_BTM_fc-web.jpg" group-title="cricket",global t20 canada 2024
+https://dai.google.com/linear/hls/event/U9g9RsIIQ8iUjgXIw7X_qw/master.m3u8
+#EXTINF:-1 tvg-id="103386" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/07/Manchester-vs-Oval_old.jpg" group-title="cricket",the hundred 2024
+https://dai.google.com/linear/hls/event/07h8GH5zQeWYC8JPp60dbw/master.m3u8
+#EXTINF:-1 tvg-id="103525" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/103525_4258_BPH-W_NOS-W_fc-Web_1722330004977.jpg" group-title="cricket",the hundred women 2024
+https://dai.google.com/linear/hls/event/tT5_hDUoSCSNNzOp56an2g/master.m3u8
+#EXTINF:-1 tvg-id="106153" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/07/ECS-Bulgaria_old_01.jpg" group-title="cricket",ecs bulgaria 2024 
+https://dai.google.com/linear/hls/event/2GjV9e6ET1KYjLfjpSga-w/master.m3u8
