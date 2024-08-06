@@ -1,5 +1,7 @@
-<html><head><title>500 Internal Server Error</title></head><body>
-<h2>Request Timeout</h2>
-<p>This request takes too long to process, it is timed out by the server. If it should not be timed out, please contact administrator of this web site to increase 'Connection Timeout'.
-</p>
-</body></html>
+#EXTM3U
+#EXTINF:-1 tvg-id="106318" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/106305_4357_CS_NS_fc-web.jpg" group-title="cricket",mca mens t20 super series phase 1
+https://dai.google.com/linear/hls/event/QmBqX8VgTBG3fZW0JGSELA/master.m3u8
+#EXTINF:-1 tvg-id="105768" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/07/GTC-Summer-Challenge-T20-Trophy_Old_match-card1.jpg" group-title="cricket",assam womens t20
+https://dai.google.com/linear/hls/event/1SpPVEvdR9WbXYSf6wZf5Q/master.m3u8
+#EXTINF:-1 tvg-id="106150" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/07/ECS-Bulgaria_old_03.jpg" group-title="cricket",ecs bulgaria 2024 
+https://dai.google.com/linear/hls/event/hT24C2WQSuCliF5lqv82PA/master.m3u8
