@@ -1,13 +1,5 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="102206" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/07/South-Africa-vs-West-indies_Old.jpg" group-title="cricket",south africa tour of west indies 2024
-https://dai.google.com/linear/hls/event/32o3Z5kUR8WHQRpF9YUOAQ/master.m3u8
-#EXTINF:-1 tvg-id="103526" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/103526_4258_TRT-W_LNS-W_fc-Web_1722330004939.jpg" group-title="cricket",the hundred women 2024
-https://dai.google.com/linear/hls/event/jXIhGMRPSsKewzy7vNSNhA/master.m3u8
-#EXTINF:-1 tvg-id="106359" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/106359_4363_WTG_MMS_fc-web_1722522669978.jpg" group-title="cricket",pondicherry premier league 2024
-https://dai.google.com/linear/hls/event/MnNgguBhQyaGTjjLtHx--w/master.m3u8
-#EXTINF:-1 tvg-id="106158" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/07/ECS-Bulgaria_old_01.jpg" group-title="cricket",ecs bulgaria 2024 
-https://dai.google.com/linear/hls/event/9TJ1ROChTpq1RX4Ulq50oA/master.m3u8
-#EXTINF:-1 tvg-id="105599" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/07/105599_4332_GLO_SUS_fc-web1.jpg" group-title="cricket",metro bank one day cup 2024
-https://dai.google.com/linear/hls/event/hwLrM3aGTwCv5xLw-VWirw/master.m3u8
-#EXTINF:-1 tvg-id="105596" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/07/105596_4332_WOR_KET_fc-web1.jpg" group-title="cricket",metro bank one day cup 2024
-https://dai.google.com/linear/hls/event/PL3LogUFQ1a7_Ot9rvhSXQ/master.m3u8
+<html><head><title>500 Internal Server Error</title></head><body>
+<h2>Request Timeout</h2>
+<p>This request takes too long to process, it is timed out by the server. If it should not be timed out, please contact administrator of this web site to increase 'Connection Timeout'.
+</p>
+</body></html>
