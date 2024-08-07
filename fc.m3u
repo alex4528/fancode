@@ -1,7 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="105952" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/07/105952_4349_SJ_MON_fc-web2.jpg" group-title="cricket",global t20 canada 2024
-https://dai.google.com/linear/hls/event/YFNdZGRESJyso7FgErL8Ag/master.m3u8
-#EXTINF:-1 tvg-id="105521" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Real-Madrid-vs-Chelsea_old-1.jpg" group-title="football",soccer championship tour us
-
 #EXTINF:-1 tvg-id="105520" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/105520_4330_BAR_MIL_fc-web.jpg" group-title="football",soccer championship tour us
 
+#EXTINF:-1 tvg-id="106047" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/07/Match-403_MLB_Old-Match-Card.jpg" group-title="baseball",mlb
+https://dai.google.com/linear/hls/event/ClV6Xgc_S3CtqRapCrBQIw/master.m3u8
