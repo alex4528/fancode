@@ -1,7 +1,5 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="105770" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/07/GTC-Summer-Challenge-T20-Trophy_Old_match-card1.jpg" group-title="cricket",assam womens t20
-https://dai.google.com/linear/hls/event/P-Ib8uRdRxuSUc0VVeQJvg/master.m3u8
-#EXTINF:-1 tvg-id="106358" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/106358_4363_OAW_YAR_fc-web_1722522670035.jpg" group-title="cricket",pondicherry premier league 2024
-https://dai.google.com/linear/hls/event/kBavNZrmShSge2A4HDYdGw/master.m3u8
-#EXTINF:-1 tvg-id="106156" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/07/ECS-Bulgaria_old_04.jpg" group-title="cricket",ecs bulgaria 2024 
-https://dai.google.com/linear/hls/event/5vOt1mezQxy9M6jtml-IvQ/master.m3u8
+<html><head><title>500 Internal Server Error</title></head><body>
+<h2>Request Timeout</h2>
+<p>This request takes too long to process, it is timed out by the server. If it should not be timed out, please contact administrator of this web site to increase 'Connection Timeout'.
+</p>
+</body></html>
