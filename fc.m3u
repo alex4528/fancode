@@ -7,5 +7,7 @@ https://dai.google.com/linear/hls/event/32o3Z5kUR8WHQRpF9YUOAQ/master.m3u8
 https://dai.google.com/linear/hls/event/-Eo5nEkjS6i2mnJbEx4Iew/master.m3u8
 #EXTINF:-1 tvg-id="106049" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/07/Match-405_MLB_Old-Match-Card.jpg" group-title="baseball",mlb
 https://dai.google.com/linear/hls/event/28OfAtaGSO-Yx3_6UeaR-g/master.m3u8
+#EXTINF:-1 tvg-id="106050" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/07/Match-406_MLB_Old-Match-Card.jpg" group-title="baseball",mlb
+https://dai.google.com/linear/hls/event/pJQAHTWuRrWXUaa5TM0P-g/master.m3u8
 #EXTINF:-1 tvg-id="99924" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/05/Ireland-Inter-Provincial-T20-Trophy_old_02-1.jpg" group-title="cricket",ireland interprovincial t20 trophy 2024
 https://dai.google.com/linear/hls/event/P9R8nT0aTeSSn8Dn7VnLkw/master.m3u8
