@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="102206" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/07/South-Africa-vs-West-indies_Old.jpg" group-title="cricket",south africa tour of west indies 2024
 https://dai.google.com/linear/hls/event/3fo856quTkmHSRI4xlJo8w/master.m3u8
-#EXTINF:-1 tvg-id="105972" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/07/105960_4349_BRW_MON_fc-web.jpg" group-title="cricket",global t20 canada 2024
-https://dai.google.com/linear/hls/event/RjcDKib3RMqHCNkHRUeD2A/master.m3u8
 #EXTINF:-1 tvg-id="103391" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/07/London-vs-Manchester_old.jpg" group-title="cricket",the hundred 2024
 https://dai.google.com/linear/hls/event/3CGhl7QlRHyyAqPQgNXJ5w/master.m3u8
 #EXTINF:-1 tvg-id="106346" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/106346_4362_CEC-A_KS_fc-web.jpg" group-title="cricket",kcc t10 summer elite cup 2024
