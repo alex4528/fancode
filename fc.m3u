@@ -7,8 +7,6 @@ https://dai.google.com/linear/hls/event/JEvf6xsnS7KbMHTWZbtwgw/master.m3u8
 https://dai.google.com/linear/hls/event/RjcDKib3RMqHCNkHRUeD2A/master.m3u8
 #EXTINF:-1 tvg-id="106363" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/106363_4363_YAR_VMK_fc-web_1722522670100.jpg" group-title="cricket",pondicherry premier league 2024
 https://dai.google.com/linear/hls/event/Y3d3g_YnTduD-ZMHGh0lkw/master.m3u8
-#EXTINF:-1 tvg-id="106167" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/07/ECS-Bulgaria_old_05.jpg" group-title="cricket",ecs bulgaria 2024 
-https://dai.google.com/linear/hls/event/wJBZi8JRQbWrMBcEFoXefg/master.m3u8
 #EXTINF:-1 tvg-id="105606" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/07/105606_4332_SOM_WOR_fc-web1.jpg" group-title="cricket",metro bank one day cup 2024
 https://dai.google.com/linear/hls/event/l6D1CQcyRqSidjNEsvq-HQ/master.m3u8
 #EXTINF:-1 tvg-id="105605" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/07/105605_4332_DUR_HAM_fc-web1.jpg" group-title="cricket",metro bank one day cup 2024
@@ -17,3 +15,5 @@ https://dai.google.com/linear/hls/event/svAk2LcPQRGBru4k2pJ13w/master.m3u8
 
 #EXTINF:-1 tvg-id="106166" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/07/ECS-Bulgaria_old_04.jpg" group-title="cricket",ecs bulgaria 2024 
 
+#EXTINF:-1 tvg-id="106167" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/07/ECS-Bulgaria_old_05.jpg" group-title="cricket",ecs bulgaria 2024 
+https://dai.google.com/linear/hls/event/wJBZi8JRQbWrMBcEFoXefg/master.m3u8
