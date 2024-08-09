@@ -1,11 +1,5 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="102206" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/07/South-Africa-vs-West-indies_Old.jpg" group-title="cricket",south africa tour of west indies 2024
-https://dai.google.com/linear/hls/event/01X-QGjOTSy0XBmLXV_UYg/master.m3u8
-#EXTINF:-1 tvg-id="106456" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/106456_4367_NTS_PSA_fc-web.jpg" group-title="cricket",top end t20 series 2024
-https://dai.google.com/linear/hls/event/Jo15BrHPSpixmYKpexCV2A/master.m3u8
-#EXTINF:-1 tvg-id="106165" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/07/ECS-Bulgaria_old_03.jpg" group-title="cricket",ecs bulgaria 2024 
-https://dai.google.com/linear/hls/event/SW-r4TjnQRqb3GYkLLHLfg/master.m3u8
-#EXTINF:-1 tvg-id="105543" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/07/105543_4331_SGE_ACT_fc-web.jpg" group-title="cricket",grand rumble t10 championship round 3 2024
-https://dai.google.com/linear/hls/event/htIB9hxrRYiFpBmTxzM0lQ/master.m3u8
-#EXTINF:-1 tvg-id="106362" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/106362_4363_KAK_WTG_fc-web_1722522670002.jpg" group-title="cricket",pondicherry premier league 2024
-https://dai.google.com/linear/hls/event/s0WEMGsDR6Wh9CmSbtH2yA/master.m3u8
+<html><head><title>500 Internal Server Error</title></head><body>
+<h2>Request Timeout</h2>
+<p>This request takes too long to process, it is timed out by the server. If it should not be timed out, please contact administrator of this web site to increase 'Connection Timeout'.
+</p>
+</body></html>
