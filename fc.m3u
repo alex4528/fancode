@@ -1,10 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="105540" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/07/105540_4331_GS_ACT_fc-web.jpg" group-title="cricket",grand rumble t10 championship round 3 2024
-https://dai.google.com/linear/hls/event/NechnQXoTKaLCywTuNlaJg/master.m3u8
-#EXTINF:-1 tvg-id="106054" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/07/Match-410_MLB_Old-Match-Card.jpg" group-title="baseball",mlb
-https://dai.google.com/linear/hls/event/vA9Fu7crSiyexWrPkiS8Qg/master.m3u8
 #EXTINF:-1 tvg-id="102206" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/07/South-Africa-vs-West-indies_Old.jpg" group-title="cricket",south africa tour of west indies 2024
 https://dai.google.com/linear/hls/event/01X-QGjOTSy0XBmLXV_UYg/master.m3u8
+#EXTINF:-1 tvg-id="105541" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/07/105541_4331_SGE_MKP_fc-web.jpg" group-title="cricket",grand rumble t10 championship round 3 2024
+https://dai.google.com/linear/hls/event/UZ_5KPILRuC5fMlJHv-MGA/master.m3u8
+#EXTINF:-1 tvg-id="106054" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/07/Match-410_MLB_Old-Match-Card.jpg" group-title="baseball",mlb
+https://dai.google.com/linear/hls/event/vA9Fu7crSiyexWrPkiS8Qg/master.m3u8
 #EXTINF:-1 tvg-id="106052" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/07/Match-408_MLB_Old-Match-Card.jpg" group-title="baseball",mlb
 https://dai.google.com/linear/hls/event/JSe_aA-lT1iSRs1nhpcJIg/master.m3u8
 #EXTINF:-1 tvg-id="106053" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/07/Match-409_MLB_Old-Match-Card.jpg" group-title="baseball",mlb
