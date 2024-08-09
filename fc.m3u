@@ -1,19 +1,5 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="102206" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/07/South-Africa-vs-West-indies_Old.jpg" group-title="cricket",south africa tour of west indies 2024
-https://dai.google.com/linear/hls/event/3fo856quTkmHSRI4xlJo8w/master.m3u8
-#EXTINF:-1 tvg-id="103529" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/103529_4258_LNS-W_MNR-W_fc-Web_1722330004989.jpg" group-title="cricket",the hundred women 2024
-https://dai.google.com/linear/hls/event/JEvf6xsnS7KbMHTWZbtwgw/master.m3u8
-#EXTINF:-1 tvg-id="105972" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/07/105960_4349_BRW_MON_fc-web.jpg" group-title="cricket",global t20 canada 2024
-https://dai.google.com/linear/hls/event/RjcDKib3RMqHCNkHRUeD2A/master.m3u8
-#EXTINF:-1 tvg-id="106363" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/106363_4363_YAR_VMK_fc-web_1722522670100.jpg" group-title="cricket",pondicherry premier league 2024
-https://dai.google.com/linear/hls/event/Y3d3g_YnTduD-ZMHGh0lkw/master.m3u8
-#EXTINF:-1 tvg-id="105606" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/07/105606_4332_SOM_WOR_fc-web1.jpg" group-title="cricket",metro bank one day cup 2024
-https://dai.google.com/linear/hls/event/l6D1CQcyRqSidjNEsvq-HQ/master.m3u8
-#EXTINF:-1 tvg-id="105605" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/07/105605_4332_DUR_HAM_fc-web1.jpg" group-title="cricket",metro bank one day cup 2024
-https://dai.google.com/linear/hls/event/svAk2LcPQRGBru4k2pJ13w/master.m3u8
-#EXTINF:-1 tvg-id="106362" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/106362_4363_KAK_WTG_fc-web_1722522670002.jpg" group-title="cricket",pondicherry premier league 2024
-
-#EXTINF:-1 tvg-id="106166" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/07/ECS-Bulgaria_old_04.jpg" group-title="cricket",ecs bulgaria 2024 
-
-#EXTINF:-1 tvg-id="106167" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/07/ECS-Bulgaria_old_05.jpg" group-title="cricket",ecs bulgaria 2024 
-https://dai.google.com/linear/hls/event/wJBZi8JRQbWrMBcEFoXefg/master.m3u8
+<html><head><title>500 Internal Server Error</title></head><body>
+<h2>Request Timeout</h2>
+<p>This request takes too long to process, it is timed out by the server. If it should not be timed out, please contact administrator of this web site to increase 'Connection Timeout'.
+</p>
+</body></html>
