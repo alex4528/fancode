@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="106458" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/106458_4367_PSA_PKS_fc-web.jpg" group-title="cricket",top end t20 series 2024
 https://dai.google.com/linear/hls/event/nHewIHiiTZGO3yC6sPsTXw/master.m3u8
+#EXTINF:-1 tvg-id="106459" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/106459_4367_TAS_ASA_fc-web.jpg" group-title="cricket",top end t20 series 2024
+https://dai.google.com/linear/hls/event/R7RJHGK3SEOzMP4NJr_Q6A/master.m3u8
 #EXTINF:-1 tvg-id="102206" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/07/South-Africa-vs-West-indies_Old.jpg" group-title="cricket",south africa tour of west indies 2024
 https://dai.google.com/linear/hls/event/3fo856quTkmHSRI4xlJo8w/master.m3u8
 #EXTINF:-1 tvg-id="106906" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/106906_4394_SGC_AC_fc-web.jpg" group-title="cricket",assam mens t20
