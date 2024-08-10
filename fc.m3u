@@ -3,7 +3,11 @@
 https://dai.google.com/linear/hls/event/n_R2KmuqQuGLwvQtCb-oXw/master.m3u8
 #EXTINF:-1 tvg-id="105974" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/07/105954_4349_BRW_TOR_fc-web.jpg" group-title="cricket",global t20 canada 2024
 https://dai.google.com/linear/hls/event/WA1QvgswRJKpzr69eP-qgQ/master.m3u8
-#EXTINF:-1 tvg-id="106365" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/106365_4363_YAR_MMS_fc-web_1722522670164.jpg" group-title="cricket",pondicherry premier league 2024
-https://dai.google.com/linear/hls/event/LZIgFaxeTeOBptlrUwjrEw/master.m3u8
+#EXTINF:-1 tvg-id="103393" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/103393_4253_WEF_BPH_fc-web.jpg" group-title="cricket",the hundred 2024
+https://dai.google.com/linear/hls/event/_6_lgk4IS_-vhyPSCHG83g/master.m3u8
 #EXTINF:-1 tvg-id="106608" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Club_Friendlies_Old_match-card.jpg" group-title="football",club friendlies
 https://dai.google.com/linear/hls/event/sno0R7w6TWa2IKQLsc4uUg/master.m3u8
+#EXTINF:-1 tvg-id="106057" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/07/Match-414_MLB_Old-Match-Card.jpg" group-title="baseball",mlb
+https://dai.google.com/linear/hls/event/cEknWG9bToihTPmYbUIq2w/master.m3u8
+#EXTINF:-1 tvg-id="106365" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/106365_4363_YAR_MMS_fc-web_1722522670164.jpg" group-title="cricket",pondicherry premier league 2024
+https://dai.google.com/linear/hls/event/LZIgFaxeTeOBptlrUwjrEw/master.m3u8
