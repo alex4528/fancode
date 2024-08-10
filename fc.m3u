@@ -1,13 +1,5 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="106459" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/106459_4367_TAS_ASA_fc-web.jpg" group-title="cricket",top end t20 series 2024
-https://dai.google.com/linear/hls/event/R7RJHGK3SEOzMP4NJr_Q6A/master.m3u8
-#EXTINF:-1 tvg-id="103530" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/103530_4258_SOB-W_TRT-W_fc-Web_1722330004923.jpg" group-title="cricket",the hundred women 2024
-https://dai.google.com/linear/hls/event/cKfZh-KDSpuN17B5M3icZQ/master.m3u8
-#EXTINF:-1 tvg-id="102206" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/07/South-Africa-vs-West-indies_Old.jpg" group-title="cricket",south africa tour of west indies 2024
-https://dai.google.com/linear/hls/event/3fo856quTkmHSRI4xlJo8w/master.m3u8
-#EXTINF:-1 tvg-id="106364" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/106364_4363_WTG_OAW_fc-web_1722522670245.jpg" group-title="cricket",pondicherry premier league 2024
-https://dai.google.com/linear/hls/event/c6Ep2F3iSh-nTro18xa0yw/master.m3u8
-#EXTINF:-1 tvg-id="107042" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/KCL_Auction_2024__Auction_match-card.jpg" group-title="live-events",kerala cricket league auction
-https://dai.google.com/linear/hls/event/oXtfdm7mSHKH-aP_Wbfe9g/master.m3u8
-#EXTINF:-1 tvg-id="106740" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/106740_4387_GIB_SER_fc-web.jpg" group-title="cricket",eci bulgaria 2024
-https://dai.google.com/linear/hls/event/iW-LdJwvRzubWSS_xmS9Lg/master.m3u8
+<html><head><title>500 Internal Server Error</title></head><body>
+<h2>Request Timeout</h2>
+<p>This request takes too long to process, it is timed out by the server. If it should not be timed out, please contact administrator of this web site to increase 'Connection Timeout'.
+</p>
+</body></html>
