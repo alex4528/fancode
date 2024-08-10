@@ -1,5 +1,11 @@
-<html><head><title>500 Internal Server Error</title></head><body>
-<h2>Request Timeout</h2>
-<p>This request takes too long to process, it is timed out by the server. If it should not be timed out, please contact administrator of this web site to increase 'Connection Timeout'.
-</p>
-</body></html>
+#EXTM3U
+#EXTINF:-1 tvg-id="106458" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/106458_4367_PSA_PKS_fc-web.jpg" group-title="cricket",top end t20 series 2024
+https://dai.google.com/linear/hls/event/nHewIHiiTZGO3yC6sPsTXw/master.m3u8
+#EXTINF:-1 tvg-id="102206" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/07/South-Africa-vs-West-indies_Old.jpg" group-title="cricket",south africa tour of west indies 2024
+https://dai.google.com/linear/hls/event/3fo856quTkmHSRI4xlJo8w/master.m3u8
+#EXTINF:-1 tvg-id="105546" tvg-logo="https://images.fancode.com/aig/match/v1/105546_CASACARDS_APP.png" group-title="cricket",grand rumble t10 championship round 3 2024
+https://dai.google.com/linear/hls/event/ZlQcMKjDSIaLrYFDoh_YUQ/master.m3u8
+#EXTINF:-1 tvg-id="107042" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/KCL_Auction_2024__Auction_match-card.jpg" group-title="live-events",kerala cricket league auction
+https://dai.google.com/linear/hls/event/oXtfdm7mSHKH-aP_Wbfe9g/master.m3u8
+#EXTINF:-1 tvg-id="106738" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/106738_4387_BUL_SER_fc-web.jpg" group-title="cricket",eci bulgaria 2024
+https://dai.google.com/linear/hls/event/sCkoirLuThSm8dLlv1zeQA/master.m3u8
