@@ -1,7 +1,5 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="106062" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/07/Match-419_MLB_Old-Match-Card.jpg" group-title="baseball",mlb
-https://dai.google.com/linear/hls/event/FLi5mziDSZOgIyevkJYXZw/master.m3u8
-#EXTINF:-1 tvg-id="106060" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/07/Match-417_MLB_Old-Match-Card.jpg" group-title="baseball",mlb
-
-#EXTINF:-1 tvg-id="106061" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/07/Match-418_MLB_Old-Match-Card.jpg" group-title="baseball",mlb
-https://dai.google.com/linear/hls/event/E69TGliURkChovZuooUBtQ/master.m3u8
+<html><head><title>500 Internal Server Error</title></head><body>
+<h2>Request Timeout</h2>
+<p>This request takes too long to process, it is timed out by the server. If it should not be timed out, please contact administrator of this web site to increase 'Connection Timeout'.
+</p>
+</body></html>
