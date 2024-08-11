@@ -1,5 +1,15 @@
-<html><head><title>500 Internal Server Error</title></head><body>
-<h2>Request Timeout</h2>
-<p>This request takes too long to process, it is timed out by the server. If it should not be timed out, please contact administrator of this web site to increase 'Connection Timeout'.
-</p>
-</body></html>
+#EXTM3U
+#EXTINF:-1 tvg-id="105975" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/GT20-Canada-Old-Matchcard-the-final.png" group-title="cricket",global t20 canada 2024
+https://dai.google.com/linear/hls/event/5BWyG0KgS1C8dHV5Sx7s_w/master.m3u8
+#EXTINF:-1 tvg-id="102206" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/07/South-Africa-vs-West-indies_Old.jpg" group-title="cricket",south africa tour of west indies 2024
+
+#EXTINF:-1 tvg-id="105715" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Sri-Lanka-Womens-tour-of-Ireland-ODI-old-Match-card.png" group-title="cricket",sri lanka women tour of ireland 2024
+https://dai.google.com/linear/hls/event/41krqpgzQAiC9OpwS2ExRw/master.m3u8
+#EXTINF:-1 tvg-id="103395" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/07/Manchester-vs-Northern_old.jpg" group-title="cricket",the hundred 2024
+https://dai.google.com/linear/hls/event/9mpHZRfYQ9KOrUS4JGlRJg/master.m3u8
+#EXTINF:-1 tvg-id="106350" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/106350_4362_ARS_KS_fc-web.jpg" group-title="cricket",kcc t10 summer elite cup 2024
+https://dai.google.com/linear/hls/event/ROzZqB99Sui3Qk2iPiYOkg/master.m3u8
+#EXTINF:-1 tvg-id="106060" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/07/Match-417_MLB_Old-Match-Card.jpg" group-title="baseball",mlb
+https://dai.google.com/linear/hls/event/4Izer2SdQaSUjVoiH0PWCQ/master.m3u8
+#EXTINF:-1 tvg-id="106367" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/106367_4363_VMK_WTG_fc-web_1722522669941.jpg" group-title="cricket",pondicherry premier league 2024
+https://dai.google.com/linear/hls/event/oym9Zc0hRCqcOqtAXq9Vog/master.m3u8
