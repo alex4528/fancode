@@ -1,9 +1,5 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="106462" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/106462_4367_PKS_MSA_fc-web.jpg" group-title="cricket",top end t20 series 2024
-https://dai.google.com/linear/hls/event/U63yQNtCTXq6xmfOFiy5XA/master.m3u8
-#EXTINF:-1 tvg-id="106743" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/106743_4387_SER_GIB_fc-web.jpg" group-title="cricket",eci bulgaria 2024
-https://dai.google.com/linear/hls/event/YYIN2_oOQmunXYmza-5-_w/master.m3u8
-#EXTINF:-1 tvg-id="102206" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/07/South-Africa-vs-West-indies_Old.jpg" group-title="cricket",south africa tour of west indies 2024
-https://dai.google.com/linear/hls/event/n_R2KmuqQuGLwvQtCb-oXw/master.m3u8
-#EXTINF:-1 tvg-id="106908" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/106908_4394_BCC_BDM_fc-web.jpg" group-title="cricket",assam mens t20
-https://dai.google.com/linear/hls/event/64xTuimoR_-sNcmRXsKcCw/master.m3u8
+<html><head><title>500 Internal Server Error</title></head><body>
+<h2>Request Timeout</h2>
+<p>This request takes too long to process, it is timed out by the server. If it should not be timed out, please contact administrator of this web site to increase 'Connection Timeout'.
+</p>
+</body></html>
