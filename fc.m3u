@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="102206" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/07/South-Africa-vs-West-indies_Old.jpg" group-title="cricket",south africa tour of west indies 2024
 
-#EXTINF:-1 tvg-id="103394" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/103394_4253_OVI_LNS_fc-web.jpg" group-title="cricket",the hundred 2024
-https://dai.google.com/linear/hls/event/OrgJEkHmTUawVFib5ko8JQ/master.m3u8
 #EXTINF:-1 tvg-id="103533" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/103533_4258_MNR-W_NOS-W_fc-Web_1722330004939.jpg" group-title="cricket",the hundred women 2024
 https://dai.google.com/linear/hls/event/mej-3NsOQ2SiY6Xw4wCeOQ/master.m3u8
 #EXTINF:-1 tvg-id="105715" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Sri-Lanka-Womens-tour-of-Ireland-ODI-old-Match-card.png" group-title="cricket",sri lanka women tour of ireland 2024
 https://dai.google.com/linear/hls/event/41krqpgzQAiC9OpwS2ExRw/master.m3u8
+#EXTINF:-1 tvg-id="105975" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/GT20-Canada-Old-Matchcard-the-final.png" group-title="cricket",global t20 canada 2024
+https://dai.google.com/linear/hls/event/5BWyG0KgS1C8dHV5Sx7s_w/master.m3u8
 #EXTINF:-1 tvg-id="106367" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/106367_4363_VMK_WTG_fc-web_1722522669941.jpg" group-title="cricket",pondicherry premier league 2024
 https://dai.google.com/linear/hls/event/oym9Zc0hRCqcOqtAXq9Vog/master.m3u8
 #EXTINF:-1 tvg-id="106267" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/106267_4352_SHFF_PLY_fc-web_1723042859264.jpg" group-title="football",efl championship 202425
@@ -15,5 +15,3 @@ https://dai.google.com/linear/hls/event/36ms0a2qQ_qksj1g_lgp8A/master.m3u8
 https://dai.google.com/linear/hls/event/4Izer2SdQaSUjVoiH0PWCQ/master.m3u8
 #EXTINF:-1 tvg-id="106663" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/106663_3908_NED_CAN_fc-web.jpg" group-title="cricket",icc cwc league 2 202327
 https://dai.google.com/linear/hls/event/kFhvoVuyTYapKshSY9ywiw/master.m3u8
-#EXTINF:-1 tvg-id="105614" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/07/105614_4332_WOR_HAM_fc-web1.jpg" group-title="cricket",metro bank one day cup 2024
-https://dai.google.com/linear/hls/event/9tHMyUIWSOK7CuAPfU96FA/master.m3u8
