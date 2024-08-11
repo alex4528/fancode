@@ -1,5 +1,17 @@
-<html><head><title>500 Internal Server Error</title></head><body>
-<h2>Request Timeout</h2>
-<p>This request takes too long to process, it is timed out by the server. If it should not be timed out, please contact administrator of this web site to increase 'Connection Timeout'.
-</p>
-</body></html>
+#EXTM3U
+#EXTINF:-1 tvg-id="102206" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/07/South-Africa-vs-West-indies_Old.jpg" group-title="cricket",south africa tour of west indies 2024
+
+#EXTINF:-1 tvg-id="103394" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/103394_4253_OVI_LNS_fc-web.jpg" group-title="cricket",the hundred 2024
+https://dai.google.com/linear/hls/event/OrgJEkHmTUawVFib5ko8JQ/master.m3u8
+#EXTINF:-1 tvg-id="103533" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/103533_4258_MNR-W_NOS-W_fc-Web_1722330004939.jpg" group-title="cricket",the hundred women 2024
+https://dai.google.com/linear/hls/event/mej-3NsOQ2SiY6Xw4wCeOQ/master.m3u8
+#EXTINF:-1 tvg-id="106367" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/106367_4363_VMK_WTG_fc-web_1722522669941.jpg" group-title="cricket",pondicherry premier league 2024
+https://dai.google.com/linear/hls/event/oym9Zc0hRCqcOqtAXq9Vog/master.m3u8
+#EXTINF:-1 tvg-id="105749" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Club_Friendlies__Atlatico_vs_Juventus_Old_match-card.jpg" group-title="football",club friendlies
+https://dai.google.com/linear/hls/event/f8AtxfGyRza0cTfv4ynL_g/master.m3u8
+#EXTINF:-1 tvg-id="106663" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/106663_3908_NED_CAN_fc-web.jpg" group-title="cricket",icc cwc league 2 202327
+https://dai.google.com/linear/hls/event/kFhvoVuyTYapKshSY9ywiw/master.m3u8
+#EXTINF:-1 tvg-id="105614" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/07/105614_4332_WOR_HAM_fc-web1.jpg" group-title="cricket",metro bank one day cup 2024
+https://dai.google.com/linear/hls/event/9tHMyUIWSOK7CuAPfU96FA/master.m3u8
+#EXTINF:-1 tvg-id="106746" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/106746_4387_SER_GIB_fc-web.jpg" group-title="cricket",eci bulgaria 2024
+https://dai.google.com/linear/hls/event/RUHHJlC_S26QsKG2bbUTRQ/master.m3u8
