@@ -1,5 +1,13 @@
-<html><head><title>500 Internal Server Error</title></head><body>
-<h2>Request Timeout</h2>
-<p>This request takes too long to process, it is timed out by the server. If it should not be timed out, please contact administrator of this web site to increase 'Connection Timeout'.
-</p>
-</body></html>
+#EXTM3U
+#EXTINF:-1 tvg-id="106748" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/02-1.jpg" group-title="cricket",shpageeza cricket league 2024
+https://dai.google.com/linear/hls/event/iWK8nUDCTj2hnYl5RWYI9Q/master.m3u8
+#EXTINF:-1 tvg-id="106465" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/106465_4367_TAS_BN-A_fc-web.jpg" group-title="cricket",top end t20 series 2024
+https://dai.google.com/linear/hls/event/374fRPvdTj-AGvPUaz05TQ/master.m3u8
+#EXTINF:-1 tvg-id="106910" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/106910_4394_NYC_BDM_fc-web_1723446935155.jpg" group-title="cricket",assam mens t20
+https://dai.google.com/linear/hls/event/VcSrDxdFRYSjayW1pTvpSg/master.m3u8
+#EXTINF:-1 tvg-id="105551" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/07/105540_4331_GS_ACT_fc-web.jpg" group-title="cricket",grand rumble t10 championship round 3 2024
+https://dai.google.com/linear/hls/event/y6enRPU6Q7mX0bZF9PXfcA/master.m3u8
+#EXTINF:-1 tvg-id="106842" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/106842_4393_RBMS_RGD_fc-web.jpg" group-title="cricket",ecs italy rome 2024
+https://dai.google.com/linear/hls/event/yPvjOCXWR6OwJbuuvR9AKA/master.m3u8
+#EXTINF:-1 tvg-id="106368" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/106368_4363_OAW_VMK_fc-web_1722522670882.jpg" group-title="cricket",pondicherry premier league 2024
+https://dai.google.com/linear/hls/event/MFSZGZfvQiCjKXUWsjqDTQ/master.m3u8
