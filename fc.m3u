@@ -1,1 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="106750" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/04-1.jpg" group-title="cricket",shpageeza cricket league 2024
+https://dai.google.com/linear/hls/event/zeMIGcu2QQuq5Hbcqr_YeQ/master.m3u8
+#EXTINF:-1 tvg-id="106849" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/106849_4393_RBMS_ROR_fc-web.jpg" group-title="cricket",ecs italy rome 2024
+https://dai.google.com/linear/hls/event/h554vwsPR76VmVcL0uC4mQ/master.m3u8
+#EXTINF:-1 tvg-id="106664" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/106664_3908_CAN_USA_fc-web.jpg" group-title="cricket",icc cwc league 2 202327
+https://dai.google.com/linear/hls/event/ZXjx0QqXSpqLuOSjYfQt5w/master.m3u8
