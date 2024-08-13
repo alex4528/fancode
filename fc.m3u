@@ -1,13 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="103397" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Northern-vs-London_old.jpg" group-title="cricket",the hundred 2024
 https://dai.google.com/linear/hls/event/soFSDP-kShKhicicImxUJA/master.m3u8
-#EXTINF:-1 tvg-id="106351" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg" group-title="cricket",kcc t10 summer elite cup 2024
-https://dai.google.com/linear/hls/event/EoHg6XZBS6eS0yWapgFGBg/master.m3u8
-#EXTINF:-1 tvg-id="106784" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Norwich-x-stevenage_old.jpg" group-title="football",carabao cup 202425
-https://dai.google.com/linear/hls/event/ePD0EM7-SGGHUHG-Afi1gQ/master.m3u8
-#EXTINF:-1 tvg-id="106352" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg" group-title="cricket",kcc t10 summer elite cup 2024
-https://dai.google.com/linear/hls/event/0NmBTp3kTG6BiycZ0ePWGg/master.m3u8
 #EXTINF:-1 tvg-id="106786" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Preston-north-end-x-sunderland_old.jpg" group-title="football",carabao cup 202425
 https://dai.google.com/linear/hls/event/3f6t9UkCQ5uxpd11mDocsw/master.m3u8
+#EXTINF:-1 tvg-id="106784" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Norwich-x-stevenage_old.jpg" group-title="football",carabao cup 202425
+https://dai.google.com/linear/hls/event/ePD0EM7-SGGHUHG-Afi1gQ/master.m3u8
 #EXTINF:-1 tvg-id="106787" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Sheffield-United-x-Wrexham_old.jpg" group-title="football",carabao cup 202425
 https://dai.google.com/linear/hls/event/rXlTNcGWQsmsd0OGtfnnGQ/master.m3u8
+#EXTINF:-1 tvg-id="106352" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg" group-title="cricket",kcc t10 summer elite cup 2024
+https://dai.google.com/linear/hls/event/0NmBTp3kTG6BiycZ0ePWGg/master.m3u8
