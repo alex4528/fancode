@@ -3,3 +3,5 @@
 https://dai.google.com/linear/hls/event/1Tn-LejGQHebmdT20k1jmA/master.m3u8
 #EXTINF:-1 tvg-id="106063" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/07/Match-420_MLB_Old-Match-Card.jpg" group-title="baseball",mlb
 https://dai.google.com/linear/hls/event/6ErddY5aSlCY6CDtUSdJZQ/master.m3u8
+#EXTINF:-1 tvg-id="106064" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/07/Match-421_MLB_Old-Match-Card.jpg" group-title="baseball",mlb
+https://dai.google.com/linear/hls/event/ZBfbrPtfQ_yul6euZFbvsw/master.m3u8
