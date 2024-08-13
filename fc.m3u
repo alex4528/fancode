@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="106268" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/106268_4352_LUT_BUR_fc-web_1723042859268.jpg" group-title="football",efl championship 202425
-https://dai.google.com/linear/hls/event/9roghTpcT9KMVa7v3pWn0Q/master.m3u8
+#EXTINF:-1 tvg-id="106466" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/106466_4367_MSA_ASA_fc-web.jpg" group-title="cricket",top end t20 series 2024
+https://dai.google.com/linear/hls/event/1Tn-LejGQHebmdT20k1jmA/master.m3u8
+#EXTINF:-1 tvg-id="106063" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/07/Match-420_MLB_Old-Match-Card.jpg" group-title="baseball",mlb
+https://dai.google.com/linear/hls/event/6ErddY5aSlCY6CDtUSdJZQ/master.m3u8
