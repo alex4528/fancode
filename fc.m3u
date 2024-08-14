@@ -1,5 +1,9 @@
-<html><head><title>500 Internal Server Error</title></head><body>
-<h2>Request Timeout</h2>
-<p>This request takes too long to process, it is timed out by the server. If it should not be timed out, please contact administrator of this web site to increase 'Connection Timeout'.
-</p>
-</body></html>
+#EXTM3U
+#EXTINF:-1 tvg-id="106797" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/106797_4392_AFG-XI_AMB_fc-web.jpg" group-title="cricket",kcc t10 summer challengers cup 2024
+https://dai.google.com/linear/hls/event/2IGzl1yKS0udoK-rYrPpPA/master.m3u8
+#EXTINF:-1 tvg-id="106788" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Hull-City-x-Sheffield-Wednesday_old.jpg" group-title="football",carabao cup 202425
+https://dai.google.com/linear/hls/event/IvEIhIvXTBSF_hGDc_kPYg/master.m3u8
+#EXTINF:-1 tvg-id="106785" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Leeds-x-Middleesbrough_old.jpg" group-title="football",carabao cup 202425
+https://dai.google.com/linear/hls/event/ELL-Ro1iRIqcXZl-CCXxlg/master.m3u8
+#EXTINF:-1 tvg-id="103402" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/103402_4253_TRT_OVI_fc-web.jpg" group-title="cricket",the hundred 2024
+https://dai.google.com/linear/hls/event/ox3XUDwEQeyDla2jQ9Js2w/master.m3u8
