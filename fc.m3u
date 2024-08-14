@@ -1,6 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="103536" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/103536_4258_SOB-W_WEF-W_fc-Web_1722330004928.jpg" group-title="cricket",the hundred women 2024
-https://dai.google.com/linear/hls/event/PT66Y7HmTKWCKu_h4isFfQ/master.m3u8
+#EXTINF:-1 tvg-id="103398" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/103398_4253_SOB_WEF_fc-web.jpg" group-title="cricket",the hundred 2024
+https://dai.google.com/linear/hls/event/OcJM8VHbT9y3cADV4lZoCQ/master.m3u8
+#EXTINF:-1 tvg-id="103537" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/103537_4258_TRT-W_OVI-W_fc-Web_1722330005270.jpg" group-title="cricket",the hundred women 2024
+https://dai.google.com/linear/hls/event/vZtah_kOQ4izF8NHQqCTYQ/master.m3u8
 #EXTINF:-1 tvg-id="106854" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/106854_4393_RBMS_RCC_fc-web.jpg" group-title="cricket",ecs italy rome 2024
 https://dai.google.com/linear/hls/event/qHJ9dn-1SBGBXMm3rPT-EQ/master.m3u8
 #EXTINF:-1 tvg-id="106373" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/106373_4363_OAW_WTG_fc-web_1722522670932.jpg" group-title="cricket",pondicherry premier league 2024
