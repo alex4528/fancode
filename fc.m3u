@@ -1,3 +1,5 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="106470" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/106470_4367_MRA_PSA_fc-web.jpg" group-title="cricket",top end t20 series 2024
+https://dai.google.com/linear/hls/event/z_34s7w2Tf-Uf2ud7NDjNw/master.m3u8
 #EXTINF:-1 tvg-id="106065" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/07/Match-422_MLB_Old-Match-Card.jpg" group-title="baseball",mlb
 https://dai.google.com/linear/hls/event/UEjkX7GvThCp7tX3JkizyA/master.m3u8
