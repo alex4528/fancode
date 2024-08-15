@@ -1,9 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="106475" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/106475_4367_PSA_ASA_fc-web.jpg" group-title="cricket",top end t20 series 2024
-https://dai.google.com/linear/hls/event/iLPgXhEBT5ybGt6JmG0pUw/master.m3u8
-#EXTINF:-1 tvg-id="106856" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/106856_4393_BAP_RBMS_fc-web.jpg" group-title="cricket",ecs italy rome 2024
-https://dai.google.com/linear/hls/event/xeyDCUqpR8eJYLQtOmmqtg/master.m3u8
+#EXTINF:-1 tvg-id="106708" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/106708_4386_BB_GMY_fc-web2.jpg" group-title="cricket",ksca maharaja trophy t20 2024
+https://dai.google.com/linear/hls/event/3iIQpf-5T560Rp6ZVXiiGQ/master.m3u8
 #EXTINF:-1 tvg-id="106916" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/106916_4394_BCC_NYC_fc-web_1723446935240.jpg" group-title="cricket",assam mens t20
 https://dai.google.com/linear/hls/event/UkcPXprGSLq753sMWQ4trw/master.m3u8
 #EXTINF:-1 tvg-id="106476" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/106476_4367_MRA_PKS_fc-web.jpg" group-title="cricket",top end t20 series 2024
 https://dai.google.com/linear/hls/event/vqEkcRN_RTS0DimkXYW4mw/master.m3u8
+#EXTINF:-1 tvg-id="106857" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/106857_4393_RGD_BOL_fc-web.jpg" group-title="cricket",ecs italy rome 2024
+https://dai.google.com/linear/hls/event/Tx5i4Wa8SyW2A_iz-B0VcA/master.m3u8
+#EXTINF:-1 tvg-id="106374" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/106374_4363_VMK_KAK_fc-web_1722522669950.jpg" group-title="cricket",pondicherry premier league 2024
+https://dai.google.com/linear/hls/event/kK052V43SFm3nEvWb3ljyA/master.m3u8
+#EXTINF:-1 tvg-id="106665" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/106665_3908_NED_USA_fc-web.jpg" group-title="cricket",icc cwc league 2 202327
+https://dai.google.com/linear/hls/event/N7-agJURQtSkEh3DlhM51Q/master.m3u8
