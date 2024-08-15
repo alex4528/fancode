@@ -3,9 +3,11 @@
 https://dai.google.com/linear/hls/event/3iIQpf-5T560Rp6ZVXiiGQ/master.m3u8
 #EXTINF:-1 tvg-id="106374" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/106374_4363_VMK_KAK_fc-web_1722522669950.jpg" group-title="cricket",pondicherry premier league 2024
 https://dai.google.com/linear/hls/event/kK052V43SFm3nEvWb3ljyA/master.m3u8
-#EXTINF:-1 tvg-id="106858" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/106858_4393_BAP_RGD_fc-web.jpg" group-title="cricket",ecs italy rome 2024
-https://dai.google.com/linear/hls/event/yhaLtaS6S9-QPdlpXwdPOg/master.m3u8
+#EXTINF:-1 tvg-id="106859" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/106859_4393_RBMS_BOL_fc-web.jpg" group-title="cricket",ecs italy rome 2024
+https://dai.google.com/linear/hls/event/80NHy_PBRimyCV5igdITCw/master.m3u8
 #EXTINF:-1 tvg-id="106665" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/106665_3908_NED_USA_fc-web.jpg" group-title="cricket",icc cwc league 2 202327
 https://dai.google.com/linear/hls/event/N7-agJURQtSkEh3DlhM51Q/master.m3u8
 #EXTINF:-1 tvg-id="107229" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/D-REAL-Czech-Masters_match-card.jpg" group-title="golf",czech masters
 
+#EXTINF:-1 tvg-id="106944" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Womens-Scottish-Open_Golf_Old-Match-Card.jpg" group-title="golf",womens scottish open
+https://dai.google.com/linear/hls/event/p1C6YV40QRS8qjlz46H4zg/master.m3u8
