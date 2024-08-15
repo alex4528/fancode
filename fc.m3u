@@ -1,5 +1,5 @@
-<html><head><title>500 Internal Server Error</title></head><body>
-<h2>Request Timeout</h2>
-<p>This request takes too long to process, it is timed out by the server. If it should not be timed out, please contact administrator of this web site to increase 'Connection Timeout'.
-</p>
-</body></html>
+#EXTM3U
+#EXTINF:-1 tvg-id="106475" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/106475_4367_PSA_ASA_fc-web.jpg" group-title="cricket",top end t20 series 2024
+https://dai.google.com/linear/hls/event/iLPgXhEBT5ybGt6JmG0pUw/master.m3u8
+#EXTINF:-1 tvg-id="106856" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/106856_4393_BAP_RBMS_fc-web.jpg" group-title="cricket",ecs italy rome 2024
+https://dai.google.com/linear/hls/event/xeyDCUqpR8eJYLQtOmmqtg/master.m3u8
