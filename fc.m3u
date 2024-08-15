@@ -1,5 +1,11 @@
-<html><head><title>500 Internal Server Error</title></head><body>
-<h2>Request Timeout</h2>
-<p>This request takes too long to process, it is timed out by the server. If it should not be timed out, please contact administrator of this web site to increase 'Connection Timeout'.
-</p>
-</body></html>
+#EXTM3U
+#EXTINF:-1 tvg-id="102207" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/07/South-Africa-vs-West-indies_Old.jpg" group-title="cricket",south africa tour of west indies 2024
+https://dai.google.com/linear/hls/event/7pJ7rycbTf64mCjtQJNsbA/master.m3u8
+#EXTINF:-1 tvg-id="106709" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/106709_4386_SL_MW_fc-web1.jpg" group-title="cricket",ksca maharaja trophy t20 2024
+https://dai.google.com/linear/hls/event/D5_x-9ZlQoOCTcXdSCQ3eg/master.m3u8
+#EXTINF:-1 tvg-id="103399" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/07/birmingham-vs-Manchester_old.jpg" group-title="cricket",the hundred 2024
+https://dai.google.com/linear/hls/event/EzCHYeS_Si2Kme-bjdJb2w/master.m3u8
+#EXTINF:-1 tvg-id="106353" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg" group-title="cricket",kcc t10 summer elite cup 2024
+https://dai.google.com/linear/hls/event/Whw8Mbq6RCKzP4vIaCA1OQ/master.m3u8
+#EXTINF:-1 tvg-id="106070" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/07/Match-427_MLB_Old-Match-Card.jpg" group-title="baseball",mlb
+https://dai.google.com/linear/hls/event/UedQGsMzSTyNhu0wSS9Ixg/master.m3u8
