@@ -1,9 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="102207" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/07/South-Africa-vs-West-indies_Old.jpg" group-title="cricket",south africa tour of west indies 2024
 https://dai.google.com/linear/hls/event/7pJ7rycbTf64mCjtQJNsbA/master.m3u8
-#EXTINF:-1 tvg-id="103399" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/07/birmingham-vs-Manchester_old.jpg" group-title="cricket",the hundred 2024
-https://dai.google.com/linear/hls/event/EzCHYeS_Si2Kme-bjdJb2w/master.m3u8
-#EXTINF:-1 tvg-id="106070" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/07/Match-427_MLB_Old-Match-Card.jpg" group-title="baseball",mlb
-https://dai.google.com/linear/hls/event/UedQGsMzSTyNhu0wSS9Ixg/master.m3u8
 #EXTINF:-1 tvg-id="106071" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/07/Match-428_MLB_Old-Match-Card.jpg" group-title="baseball",mlb
 https://dai.google.com/linear/hls/event/EgSCUq2bQFKJrA8Avcw19A/master.m3u8
