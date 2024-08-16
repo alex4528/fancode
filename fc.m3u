@@ -1,8 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="106710" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/106710_4386_MD_HT_fc-web.jpg" group-title="cricket",ksca maharaja trophy t20 2024
-https://dai.google.com/linear/hls/event/uDEFZg-oS5-1R0jEXvyWnA/master.m3u8
-#EXTINF:-1 tvg-id="106754" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/082.jpg" group-title="cricket",shpageeza cricket league 2024
-https://dai.google.com/linear/hls/event/CFYaIC18TRynv8fPBU34XA/master.m3u8
+#EXTINF:-1 tvg-id="102207" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/07/South-Africa-vs-West-indies_Old.jpg" group-title="cricket",south africa tour of west indies 2024
+
 #EXTINF:-1 tvg-id="105717" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Sri-Lanka-Womens-tour-of-Ireland-ODI-old-Match-card.png" group-title="cricket",sri lanka women tour of ireland 2024
 https://dai.google.com/linear/hls/event/dW3cQOxhRNSnPhDeC5GGlw/master.m3u8
 #EXTINF:-1 tvg-id="106711" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/106711_4386_BB_MW_fc-web.jpg" group-title="cricket",ksca maharaja trophy t20 2024
@@ -11,11 +9,11 @@ https://dai.google.com/linear/hls/event/3nQWOkvBTk-SO4WaLuEQpg/master.m3u8
 https://dai.google.com/linear/hls/event/CDwL_DmXSJiu2iJITKcmhQ/master.m3u8
 #EXTINF:-1 tvg-id="106377" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/106377_4363_WTG_VMK_fc-web_1722522670088.jpg" group-title="cricket",pondicherry premier league 2024
 https://dai.google.com/linear/hls/event/yl2Rv2x0TB66rYmoT7q6pA/master.m3u8
-#EXTINF:-1 tvg-id="106172" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/BG_ZFC__Old_fc_web.jpg" group-title="football",chinese super league 2024
-
 #EXTINF:-1 tvg-id="107230" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/D-REAL-Czech-Masters_match-card.jpg" group-title="golf",czech masters
 
 #EXTINF:-1 tvg-id="106945" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Womens-Scottish-Open_Golf_Old-Match-Card.jpg" group-title="golf",womens scottish open
 https://dai.google.com/linear/hls/event/L62pP3rtT0KlickMOlqPHA/master.m3u8
 #EXTINF:-1 tvg-id="107218" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/07/DTM_Old_match-card-1.jpg" group-title="motorsports",dtm 2024
 https://dai.google.com/linear/hls/event/XVnsXzhbRqm-Pb3WymP-JQ/master.m3u8
+#EXTINF:-1 tvg-id="106172" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/BG_ZFC__Old_fc_web.jpg" group-title="football",chinese super league 2024
+
