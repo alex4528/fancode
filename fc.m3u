@@ -1,5 +1,15 @@
-<html><head><title>500 Internal Server Error</title></head><body>
-<h2>Request Timeout</h2>
-<p>This request takes too long to process, it is timed out by the server. If it should not be timed out, please contact administrator of this web site to increase 'Connection Timeout'.
-</p>
-</body></html>
+#EXTM3U
+#EXTINF:-1 tvg-id="106710" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/106710_4386_MD_HT_fc-web.jpg" group-title="cricket",ksca maharaja trophy t20 2024
+https://dai.google.com/linear/hls/event/uDEFZg-oS5-1R0jEXvyWnA/master.m3u8
+#EXTINF:-1 tvg-id="106754" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/082.jpg" group-title="cricket",shpageeza cricket league 2024
+https://dai.google.com/linear/hls/event/CFYaIC18TRynv8fPBU34XA/master.m3u8
+#EXTINF:-1 tvg-id="105717" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Sri-Lanka-Womens-tour-of-Ireland-ODI-old-Match-card.png" group-title="cricket",sri lanka women tour of ireland 2024
+https://dai.google.com/linear/hls/event/dW3cQOxhRNSnPhDeC5GGlw/master.m3u8
+#EXTINF:-1 tvg-id="106479" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/106479_4367_PKS_BN-A_fc-web.jpg" group-title="cricket",top end t20 series 2024
+https://dai.google.com/linear/hls/event/rGG_aCxhQ_KDG4zCwLefVQ/master.m3u8
+#EXTINF:-1 tvg-id="106862" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/106862_4393_BOL_RCC_fc-web.jpg" group-title="cricket",ecs italy rome 2024
+https://dai.google.com/linear/hls/event/yJXYlReCTSuIYTSFpULGyg/master.m3u8
+#EXTINF:-1 tvg-id="106376" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/106376_4363_OAW_MMS_fc-web_1722522670019.jpg" group-title="cricket",pondicherry premier league 2024
+https://dai.google.com/linear/hls/event/vzGQfGaESOaSrK1QaeDafw/master.m3u8
+#EXTINF:-1 tvg-id="105697" tvg-logo="https://images.fancode.com/aig/match/v1/105697_CASACARDS_APP.png" group-title="football",j league 2024
+
