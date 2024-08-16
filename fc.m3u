@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="106710" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/106710_4386_MD_HT_fc-web.jpg" group-title="cricket",ksca maharaja trophy t20 2024
 https://dai.google.com/linear/hls/event/uDEFZg-oS5-1R0jEXvyWnA/master.m3u8
+#EXTINF:-1 tvg-id="105717" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Sri-Lanka-Womens-tour-of-Ireland-ODI-old-Match-card.png" group-title="cricket",sri lanka women tour of ireland 2024
+https://dai.google.com/linear/hls/event/dW3cQOxhRNSnPhDeC5GGlw/master.m3u8
 #EXTINF:-1 tvg-id="106918" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/106918_4394_BCC_SGC_fc-web_1723446935322.jpg" group-title="cricket",assam mens t20
 https://dai.google.com/linear/hls/event/lDoyzIRoROuRk6etVeA6Ww/master.m3u8
 #EXTINF:-1 tvg-id="106479" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/106479_4367_PKS_BN-A_fc-web.jpg" group-title="cricket",top end t20 series 2024
