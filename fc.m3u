@@ -3,6 +3,8 @@
 https://dai.google.com/linear/hls/event/B6dGkxEeRfikEf6mAvL11g/master.m3u8
 #EXTINF:-1 tvg-id="106799" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/106799_4392_KRM_CEC-B_fc-web.jpg" group-title="cricket",kcc t10 summer challengers cup 2024
 https://dai.google.com/linear/hls/event/ps3GTCaJSze24wz8Ooe3Jw/master.m3u8
+#EXTINF:-1 tvg-id="106669" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg" group-title="cricket",icc mens t20 wc eap subregional qualifier a
+https://dai.google.com/linear/hls/event/QTUbgzjkTWCGZ4ZzU3SHCw/master.m3u8
 #EXTINF:-1 tvg-id="106269" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/106269_4352_CVC_OU_fc-web_1723042859585.jpg" group-title="football",efl championship 202425
 https://dai.google.com/linear/hls/event/sXuKjGzsSi-eJxCIlhBeAw/master.m3u8
 #EXTINF:-1 tvg-id="106790" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/LIV_Golf_Greenbrier_match-card.jpg" group-title="golf",liv golf greenbrier
