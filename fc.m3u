@@ -1,17 +1,5 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="102207" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/07/South-Africa-vs-West-indies_Old.jpg" group-title="cricket",south africa tour of west indies 2024
-
-#EXTINF:-1 tvg-id="105717" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Sri-Lanka-Womens-tour-of-Ireland-ODI-old-Match-card.png" group-title="cricket",sri lanka women tour of ireland 2024
-https://dai.google.com/linear/hls/event/dW3cQOxhRNSnPhDeC5GGlw/master.m3u8
-#EXTINF:-1 tvg-id="106711" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/106711_4386_BB_MW_fc-web.jpg" group-title="cricket",ksca maharaja trophy t20 2024
-https://dai.google.com/linear/hls/event/3nQWOkvBTk-SO4WaLuEQpg/master.m3u8
-#EXTINF:-1 tvg-id="106377" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/106377_4363_WTG_VMK_fc-web_1722522670088.jpg" group-title="cricket",pondicherry premier league 2024
-https://dai.google.com/linear/hls/event/yl2Rv2x0TB66rYmoT7q6pA/master.m3u8
-#EXTINF:-1 tvg-id="106798" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/106798_4392_FRB_SZN_fc-web.jpg" group-title="cricket",kcc t10 summer challengers cup 2024
-https://dai.google.com/linear/hls/event/cy-FyBV_TtO2tdy_RWRSAA/master.m3u8
-#EXTINF:-1 tvg-id="106945" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Womens-Scottish-Open_Golf_Old-Match-Card.jpg" group-title="golf",womens scottish open
-https://dai.google.com/linear/hls/event/L62pP3rtT0KlickMOlqPHA/master.m3u8
-#EXTINF:-1 tvg-id="106790" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/LIV_Golf_Greenbrier_match-card.jpg" group-title="golf",liv golf greenbrier
-
-#EXTINF:-1 tvg-id="106864" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/106864_4393_BOL_RCC_fc-web.jpg" group-title="cricket",ecs italy rome 2024
-https://dai.google.com/linear/hls/event/CDwL_DmXSJiu2iJITKcmhQ/master.m3u8
+<html><head><title>500 Internal Server Error</title></head><body>
+<h2>Request Timeout</h2>
+<p>This request takes too long to process, it is timed out by the server. If it should not be timed out, please contact administrator of this web site to increase 'Connection Timeout'.
+</p>
+</body></html>
