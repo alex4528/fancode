@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="102207" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/07/South-Africa-vs-West-indies_Old.jpg" group-title="cricket",south africa tour of west indies 2024
 
-#EXTINF:-1 tvg-id="106711" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/106711_4386_BB_MW_fc-web.jpg" group-title="cricket",ksca maharaja trophy t20 2024
-https://dai.google.com/linear/hls/event/3nQWOkvBTk-SO4WaLuEQpg/master.m3u8
-#EXTINF:-1 tvg-id="106798" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/106798_4392_FRB_SZN_fc-web.jpg" group-title="cricket",kcc t10 summer challengers cup 2024
-https://dai.google.com/linear/hls/event/cy-FyBV_TtO2tdy_RWRSAA/master.m3u8
 #EXTINF:-1 tvg-id="106799" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/106799_4392_KRM_CEC-B_fc-web.jpg" group-title="cricket",kcc t10 summer challengers cup 2024
 https://dai.google.com/linear/hls/event/ps3GTCaJSze24wz8Ooe3Jw/master.m3u8
 #EXTINF:-1 tvg-id="106269" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/106269_4352_CVC_OU_fc-web_1723042859585.jpg" group-title="football",efl championship 202425
