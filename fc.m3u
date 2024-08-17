@@ -7,3 +7,9 @@ https://dai.google.com/linear/hls/event/-VAELJ4yTG6gcoc6313OcA/master.m3u8
 https://dai.google.com/linear/hls/event/G3CtjcUWQAalC2C2buDkIw/master.m3u8
 #EXTINF:-1 tvg-id="106870" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/106870_4393_ROR_RCC_fc-web.jpg" group-title="cricket",ecs italy rome 2024
 https://dai.google.com/linear/hls/event/ZnmJz84kTBi1kt1RdOsgWw/master.m3u8
+#EXTINF:-1 tvg-id="106800" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/106800_4392_KMW_IQS_fc-web.jpg" group-title="cricket",kcc t10 summer challengers cup 2024
+https://dai.google.com/linear/hls/event/reHrUmD2RuqKNAJ3UvQZ9g/master.m3u8
+#EXTINF:-1 tvg-id="106075" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/07/Match-433_MLB_Old-Match-Card.jpg" group-title="baseball",mlb
+https://dai.google.com/linear/hls/event/o9-Y_YVZSY26PQxGeaHKkQ/master.m3u8
+#EXTINF:-1 tvg-id="106791" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/LIV_Golf_Greenbrier_match-card.jpg" group-title="golf",liv golf greenbrier
+https://dai.fancode.com/primary/106791_english_hls_9132adfreeta-di/index.m3u8
