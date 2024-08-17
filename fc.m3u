@@ -1,5 +1,5 @@
-<html><head><title>500 Internal Server Error</title></head><body>
-<h2>Request Timeout</h2>
-<p>This request takes too long to process, it is timed out by the server. If it should not be timed out, please contact administrator of this web site to increase 'Connection Timeout'.
-</p>
-</body></html>
+#EXTM3U
+#EXTINF:-1 tvg-id="102207" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/07/South-Africa-vs-West-indies_Old.jpg" group-title="cricket",south africa tour of west indies 2024
+https://dai.google.com/linear/hls/event/1ZDefQm5TH6zW12UUdYUmg/master.m3u8
+#EXTINF:-1 tvg-id="106076" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/07/Match-434_MLB_Old-Match-Card.jpg" group-title="baseball",mlb
+https://dai.google.com/linear/hls/event/08Py-oz3QaCOaG4BbCTrGw/master.m3u8
