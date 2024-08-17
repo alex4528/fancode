@@ -1,7 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="102207" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/07/South-Africa-vs-West-indies_Old.jpg" group-title="cricket",south africa tour of west indies 2024
 https://dai.google.com/linear/hls/event/1ZDefQm5TH6zW12UUdYUmg/master.m3u8
-#EXTINF:-1 tvg-id="106801" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/106801_4392_AMB_COH_fc-web.jpg" group-title="cricket",kcc t10 summer challengers cup 2024
-https://dai.google.com/linear/hls/event/tTG7s0w6S_6nve-MiymGbg/master.m3u8
 #EXTINF:-1 tvg-id="106076" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/07/Match-434_MLB_Old-Match-Card.jpg" group-title="baseball",mlb
 https://dai.google.com/linear/hls/event/08Py-oz3QaCOaG4BbCTrGw/master.m3u8
