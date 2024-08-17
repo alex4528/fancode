@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="106755" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/092.jpg" group-title="cricket",shpageeza cricket league 2024
-https://dai.google.com/linear/hls/event/7sVK6_mjQpqZwLfAthScmw/master.m3u8
-#EXTINF:-1 tvg-id="106481" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/106481_4367_BN-A_PSA_fc-web.jpg" group-title="cricket",top end t20 series 2024
-https://dai.google.com/linear/hls/event/RNgWJDx7T2Kqy5RkxxT2Tg/master.m3u8
-#EXTINF:-1 tvg-id="101883" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/101883_4221_RS_MBT_fc-web_1716550961646.png" group-title="cricket",jcl t20 2024
-https://dai.google.com/linear/hls/event/1jW7p2VKQWeye5uhWhDYWA/master.m3u8
 #EXTINF:-1 tvg-id="106379" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/106379_4363_WTG_YAR_fc-web_1722522670853.jpg" group-title="cricket",pondicherry premier league 2024
 https://dai.google.com/linear/hls/event/IOUW6CpjQN6cbHWK15aUiw/master.m3u8
 #EXTINF:-1 tvg-id="106866" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/106866_4393_BOL_BAP_fc-web.jpg" group-title="cricket",ecs italy rome 2024
