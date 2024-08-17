@@ -1,5 +1,17 @@
-<html><head><title>500 Internal Server Error</title></head><body>
-<h2>Request Timeout</h2>
-<p>This request takes too long to process, it is timed out by the server. If it should not be timed out, please contact administrator of this web site to increase 'Connection Timeout'.
-</p>
-</body></html>
+#EXTM3U
+#EXTINF:-1 tvg-id="102207" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/07/South-Africa-vs-West-indies_Old.jpg" group-title="cricket",south africa tour of west indies 2024
+https://dai.google.com/linear/hls/event/1ZDefQm5TH6zW12UUdYUmg/master.m3u8
+#EXTINF:-1 tvg-id="103539" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/17th_Oval-Invincibles-Women-vs-London-Spirit-Women_Old.jpg" group-title="cricket",the hundred women 2024
+https://dai.google.com/linear/hls/event/x5_FFKgrRY6YmyJC-TOaTw/master.m3u8
+#EXTINF:-1 tvg-id="106713" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/106713_4386_GMY_HT_fc-web1.jpg" group-title="cricket",ksca maharaja trophy t20 2024
+https://dai.google.com/linear/hls/event/-VAELJ4yTG6gcoc6313OcA/master.m3u8
+#EXTINF:-1 tvg-id="106870" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/106870_4393_ROR_RCC_fc-web.jpg" group-title="cricket",ecs italy rome 2024
+https://dai.google.com/linear/hls/event/ZnmJz84kTBi1kt1RdOsgWw/master.m3u8
+#EXTINF:-1 tvg-id="106270" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/106270_4352_SHF_QPR_fc-web_1723042859254.jpg" group-title="football",efl championship 202425
+https://dai.google.com/linear/hls/event/RGl1M0JvTcevJUc3eo5RUw/master.m3u8
+#EXTINF:-1 tvg-id="106666" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/106666_3908_NED_CAN_fc-web.jpg" group-title="cricket",icc cwc league 2 202327
+https://dai.google.com/linear/hls/event/-go8KtVBRdGmBjT7UNNsmQ/master.m3u8
+#EXTINF:-1 tvg-id="107231" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/D-REAL-Czech-Masters_match-card.jpg" group-title="golf",czech masters
+https://dai.fancode.com/primary/107231_english_hls_4938adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-id="106946" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Womens-Scottish-Open_Golf_Old-Match-Card.jpg" group-title="golf",womens scottish open
+https://dai.google.com/linear/hls/event/mFRb_OIfTTm90kS0FHL3bQ/master.m3u8
