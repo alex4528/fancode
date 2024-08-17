@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="106712" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/106712_4386_SL_MD_fc-web.jpg" group-title="cricket",ksca maharaja trophy t20 2024
 https://dai.google.com/linear/hls/event/JUwFtmlFSQiGe4KT7rgSpA/master.m3u8
+#EXTINF:-1 tvg-id="106756" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/102.jpg" group-title="cricket",shpageeza cricket league 2024
+https://dai.google.com/linear/hls/event/58BJOBIkSXiYlKbjMG3adA/master.m3u8
 #EXTINF:-1 tvg-id="106379" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/106379_4363_WTG_YAR_fc-web_1722522670853.jpg" group-title="cricket",pondicherry premier league 2024
 https://dai.google.com/linear/hls/event/IOUW6CpjQN6cbHWK15aUiw/master.m3u8
 #EXTINF:-1 tvg-id="106920" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/106920_4394_AC_NYC_fc-web_1723446935325.jpg" group-title="cricket",assam mens t20
