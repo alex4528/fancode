@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="106755" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/092.jpg" group-title="cricket",shpageeza cricket league 2024
+https://dai.google.com/linear/hls/event/7sVK6_mjQpqZwLfAthScmw/master.m3u8
 #EXTINF:-1 tvg-id="101882" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/101882_4221_TSK_AQY_fc-web_1716550961491.png" group-title="cricket",jcl t20 2024
 https://dai.google.com/linear/hls/event/F4HnI3XpQ_a-5OAqPmHzYw/master.m3u8
 #EXTINF:-1 tvg-id="106378" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/106378_4363_MMS_KAK_fc-web_1722522670584.jpg" group-title="cricket",pondicherry premier league 2024
@@ -7,5 +9,5 @@ https://dai.google.com/linear/hls/event/i_-6NCzwTze78UluOi--7g/master.m3u8
 https://dai.google.com/linear/hls/event/rIJjU1RhQ92AaXjQFQKedQ/master.m3u8
 #EXTINF:-1 tvg-id="106169" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/07/Match-432_MLB_Old-Match-Card.jpg" group-title="baseball",mlb
 https://dai.google.com/linear/hls/event/WHdcw4bzSsu03dnv0ZZRFg/master.m3u8
-#EXTINF:-1 tvg-id="105948" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/PFL_Playoffs_Old_match-card.jpg" group-title="mma",professional fighters league
-https://dai.fancode.com/primary/105948_english_hls_4998adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-id="106481" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/106481_4367_BN-A_PSA_fc-web.jpg" group-title="cricket",top end t20 series 2024
+https://dai.google.com/linear/hls/event/RNgWJDx7T2Kqy5RkxxT2Tg/master.m3u8
