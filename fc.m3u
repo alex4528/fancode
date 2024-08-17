@@ -1,7 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="106669" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg" group-title="cricket",icc mens t20 wc eap subregional qualifier a
-https://dai.google.com/linear/hls/event/QTUbgzjkTWCGZ4ZzU3SHCw/master.m3u8
-#EXTINF:-1 tvg-id="106790" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/LIV_Golf_Greenbrier_match-card.jpg" group-title="golf",liv golf greenbrier
-https://dai.fancode.com/primary/106790_english_hls_5501adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-id="106480" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/106480_4367_ACT_ASA_fc-web.jpg" group-title="cricket",top end t20 series 2024
+https://dai.google.com/linear/hls/event/pmEh-ovDRfCmjnwAaVZ5PQ/master.m3u8
+#EXTINF:-1 tvg-id="106670" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg" group-title="cricket",icc mens t20 wc eap subregional qualifier a
+https://dai.google.com/linear/hls/event/Kr67Vw8gQIG-KszLEy5PCQ/master.m3u8
+#EXTINF:-1 tvg-id="106074" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/07/Match-431_MLB_Old-Match-Card.jpg" group-title="baseball",mlb
+https://dai.google.com/linear/hls/event/pmDSE79HQLG57eqMM3D0fQ/master.m3u8
+#EXTINF:-1 tvg-id="101882" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/101882_4221_TSK_AQY_fc-web_1716550961491.png" group-title="cricket",jcl t20 2024
+https://dai.google.com/linear/hls/event/F4HnI3XpQ_a-5OAqPmHzYw/master.m3u8
 #EXTINF:-1 tvg-id="105948" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/PFL_Playoffs_Old_match-card.jpg" group-title="mma",professional fighters league
 https://dai.fancode.com/primary/105948_english_hls_4998adfreeta-no/index.m3u8
