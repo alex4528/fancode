@@ -1,12 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="102207" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/07/South-Africa-vs-West-indies_Old.jpg" group-title="cricket",south africa tour of west indies 2024
 https://dai.google.com/linear/hls/event/1ZDefQm5TH6zW12UUdYUmg/master.m3u8
-#EXTINF:-1 tvg-id="106713" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/106713_4386_GMY_HT_fc-web1.jpg" group-title="cricket",ksca maharaja trophy t20 2024
-https://dai.google.com/linear/hls/event/-VAELJ4yTG6gcoc6313OcA/master.m3u8
 #EXTINF:-1 tvg-id="103400" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/The-Hundred_Mens_Old.jpg" group-title="cricket",the hundred 2024
 https://dai.google.com/linear/hls/event/G3CtjcUWQAalC2C2buDkIw/master.m3u8
-#EXTINF:-1 tvg-id="106870" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/106870_4393_ROR_RCC_fc-web.jpg" group-title="cricket",ecs italy rome 2024
-https://dai.google.com/linear/hls/event/ZnmJz84kTBi1kt1RdOsgWw/master.m3u8
 #EXTINF:-1 tvg-id="106800" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/106800_4392_KMW_IQS_fc-web.jpg" group-title="cricket",kcc t10 summer challengers cup 2024
 https://dai.google.com/linear/hls/event/reHrUmD2RuqKNAJ3UvQZ9g/master.m3u8
 #EXTINF:-1 tvg-id="106075" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/07/Match-433_MLB_Old-Match-Card.jpg" group-title="baseball",mlb
