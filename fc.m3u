@@ -1,12 +1,16 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="106712" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/106712_4386_SL_MD_fc-web.jpg" group-title="cricket",ksca maharaja trophy t20 2024
-https://dai.google.com/linear/hls/event/JUwFtmlFSQiGe4KT7rgSpA/master.m3u8
 #EXTINF:-1 tvg-id="106756" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/102.jpg" group-title="cricket",shpageeza cricket league 2024
 https://dai.google.com/linear/hls/event/58BJOBIkSXiYlKbjMG3adA/master.m3u8
+#EXTINF:-1 tvg-id="106712" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/106712_4386_SL_MD_fc-web.jpg" group-title="cricket",ksca maharaja trophy t20 2024
+https://dai.google.com/linear/hls/event/JUwFtmlFSQiGe4KT7rgSpA/master.m3u8
+#EXTINF:-1 tvg-id="103539" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/17th_Oval-Invincibles-Women-vs-London-Spirit-Women_Old.jpg" group-title="cricket",the hundred women 2024
+https://dai.google.com/linear/hls/event/x5_FFKgrRY6YmyJC-TOaTw/master.m3u8
 #EXTINF:-1 tvg-id="106868" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/106868_4393_BOL_ROR_fc-web.jpg" group-title="cricket",ecs italy rome 2024
 https://dai.google.com/linear/hls/event/leFjjKfVTYC7ZJt3iTmqNQ/master.m3u8
 #EXTINF:-1 tvg-id="106272" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/106272_4352_WBA_LU_fc-web_1723042859945.jpg" group-title="football",efl championship 202425
 https://dai.google.com/linear/hls/event/GtdeoWgdTC601unFgZMo5Q/master.m3u8
+#EXTINF:-1 tvg-id="106869" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/106869_4393_BAP_BOL_fc-web.jpg" group-title="cricket",ecs italy rome 2024
+https://dai.google.com/linear/hls/event/5COWBeqJT5qsZ7E4s_77_g/master.m3u8
 #EXTINF:-1 tvg-id="106666" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/106666_3908_NED_CAN_fc-web.jpg" group-title="cricket",icc cwc league 2 202327
 https://dai.google.com/linear/hls/event/-go8KtVBRdGmBjT7UNNsmQ/master.m3u8
 #EXTINF:-1 tvg-id="106173" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/SHN_SP__Old_fc_web.jpg" group-title="football",chinese super league 2024
