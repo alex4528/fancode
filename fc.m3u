@@ -1,10 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="106756" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/102.jpg" group-title="cricket",shpageeza cricket league 2024
-https://dai.google.com/linear/hls/event/58BJOBIkSXiYlKbjMG3adA/master.m3u8
 #EXTINF:-1 tvg-id="106712" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/106712_4386_SL_MD_fc-web.jpg" group-title="cricket",ksca maharaja trophy t20 2024
 https://dai.google.com/linear/hls/event/JUwFtmlFSQiGe4KT7rgSpA/master.m3u8
-#EXTINF:-1 tvg-id="106482" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/106482_4367_ACT_PKS_fc-web.jpg" group-title="cricket",top end t20 series 2024
-https://dai.google.com/linear/hls/event/z0imA3s6QdK9x_6yzjcABg/master.m3u8
+#EXTINF:-1 tvg-id="106756" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/102.jpg" group-title="cricket",shpageeza cricket league 2024
+https://dai.google.com/linear/hls/event/58BJOBIkSXiYlKbjMG3adA/master.m3u8
 #EXTINF:-1 tvg-id="106868" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/106868_4393_BOL_ROR_fc-web.jpg" group-title="cricket",ecs italy rome 2024
 https://dai.google.com/linear/hls/event/leFjjKfVTYC7ZJt3iTmqNQ/master.m3u8
 #EXTINF:-1 tvg-id="106272" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/106272_4352_WBA_LU_fc-web_1723042859945.jpg" group-title="football",efl championship 202425
@@ -15,6 +13,8 @@ https://dai.google.com/linear/hls/event/-go8KtVBRdGmBjT7UNNsmQ/master.m3u8
 https://dai.fancode.com/primary/105700_english_hls_4921adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-id="105699" tvg-logo="https://images.fancode.com/aig/match/v1/105699_CASACARDS_APP.png" group-title="football",j league 2024
 https://dai.fancode.com/primary/105699_english_hls_8744adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-id="106173" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/SHN_SP__Old_fc_web.jpg" group-title="football",chinese super league 2024
+https://dai.fancode.com/primary/106173_english_hls_5019adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-id="107231" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/D-REAL-Czech-Masters_match-card.jpg" group-title="golf",czech masters
 https://dai.fancode.com/primary/107231_english_hls_4938adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-id="107220" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/07/DTM_Old_match-card-1.jpg" group-title="motorsports",dtm 2024
