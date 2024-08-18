@@ -5,8 +5,12 @@ https://dai.google.com/linear/hls/event/NO8rlg2DSzOWs75yVbufdw/master.m3u8
 https://dai.google.com/linear/hls/event/2Dy31QnqQ9azqgd8Ux5WeA/master.m3u8
 #EXTINF:-1 tvg-id="106715" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/106715_4386_BB_SL_fc-web.jpg" group-title="cricket",ksca maharaja trophy t20 2024
 https://dai.google.com/linear/hls/event/JruMLpgEQVS5kL6ote3TFw/master.m3u8
+#EXTINF:-1 tvg-id="107065" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Max-60-old_match-1.jpg" group-title="cricket",max60 2024
+https://dai.google.com/linear/hls/event/Sfn8esX6RVu0h2Mpv9LVFQ/master.m3u8
 #EXTINF:-1 tvg-id="106875" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/106875_4393_KEL_RGD_fc-web.jpg" group-title="cricket",ecs italy rome 2024
 https://dai.google.com/linear/hls/event/POxjBYNNTX2B1MBpklPdAg/master.m3u8
+#EXTINF:-1 tvg-id="106078" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/07/Match-436_MLB_Old-Match-Card.jpg" group-title="baseball",mlb
+https://dai.google.com/linear/hls/event/I7tsa1OYTz-nPKoBuuxKuA/master.m3u8
 #EXTINF:-1 tvg-id="105627" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Metro-Bank-OD-Cup-semi-final-2-old.jpg" group-title="cricket",metro bank one day cup 2024
 https://dai.google.com/linear/hls/event/z6QmZd-3SrqeS9eDvnp6fg/master.m3u8
 #EXTINF:-1 tvg-id="105626" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Metro-Bank-OD-Cup-semi-final-1-old.jpg" group-title="cricket",metro bank one day cup 2024
