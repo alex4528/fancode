@@ -1,15 +1,5 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="103401" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/18th-Aug_Oval-Invincibles-vs-Southern-Brave_OLD.jpg" group-title="cricket",the hundred 2024
-https://dai.google.com/linear/hls/event/gs3OMNL5Sf275sZInXfUkw/master.m3u8
-#EXTINF:-1 tvg-id="107066" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Max-60-old_match-2.jpg" group-title="cricket",max60 2024
-https://dai.google.com/linear/hls/event/Y0WYDnZjTHmoHGglBVSvCw/master.m3u8
-#EXTINF:-1 tvg-id="106802" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/106802_4392_AFG-XI_SZN_fc-web.jpg" group-title="cricket",kcc t10 summer challengers cup 2024
-https://dai.google.com/linear/hls/event/7f90LxFbQUSLhQ_cAvtDqA/master.m3u8
-#EXTINF:-1 tvg-id="106078" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/07/Match-436_MLB_Old-Match-Card.jpg" group-title="baseball",mlb
-https://dai.google.com/linear/hls/event/I7tsa1OYTz-nPKoBuuxKuA/master.m3u8
-#EXTINF:-1 tvg-id="106079" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Match-437_MLB_Old-Match-Card.jpg" group-title="baseball",mlb
-https://dai.google.com/linear/hls/event/gI9ECHEXQC-scRz7cIyTnw/master.m3u8
-#EXTINF:-1 tvg-id="106500" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/League-One-2024-25-old-match-card.png" group-title="football",league one 202425
-https://dai.google.com/linear/hls/event/SCikajCwRd6y0fx-zpImtw/master.m3u8
-#EXTINF:-1 tvg-id="106792" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/LIV_Golf_Greenbrier_match-card.jpg" group-title="golf",liv golf greenbrier
-https://dai.fancode.com/primary/106792_english_hls_4541adfreeta-di/index.m3u8
+<html><head><title>500 Internal Server Error</title></head><body>
+<h2>Request Timeout</h2>
+<p>This request takes too long to process, it is timed out by the server. If it should not be timed out, please contact administrator of this web site to increase 'Connection Timeout'.
+</p>
+</body></html>
