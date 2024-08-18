@@ -3,3 +3,5 @@
 https://dai.google.com/linear/hls/event/IjrLUGqDQi-lfw5EzxLh3g/master.m3u8
 #EXTINF:-1 tvg-id="106483" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg" group-title="cricket",top end t20 series 2024
 https://dai.google.com/linear/hls/event/x5TU3rXCR7O2yAl0gfSdag/master.m3u8
+#EXTINF:-1 tvg-id="106077" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/07/Match-435_MLB_Old-Match-Card.jpg" group-title="baseball",mlb
+https://dai.google.com/linear/hls/event/MuRwz3tiSgafx8rI3-z95Q/master.m3u8
