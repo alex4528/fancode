@@ -1,5 +1,11 @@
-<html><head><title>500 Internal Server Error</title></head><body>
-<h2>Request Timeout</h2>
-<p>This request takes too long to process, it is timed out by the server. If it should not be timed out, please contact administrator of this web site to increase 'Connection Timeout'.
-</p>
-</body></html>
+#EXTM3U
+#EXTINF:-1 tvg-id="107066" tvg-logo="https://images.fancode.com/aig/match/v1/107066_CASACARDS_APP.png" group-title="cricket",max60 2024
+https://dai.google.com/linear/hls/event/Y0WYDnZjTHmoHGglBVSvCw/master.m3u8
+#EXTINF:-1 tvg-id="106803" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/106803_4392_CEC-B_FRB_fc-web.jpg" group-title="cricket",kcc t10 summer challengers cup 2024
+https://dai.google.com/linear/hls/event/iYcIH-CeRUqoDAlJXXZqDA/master.m3u8
+#EXTINF:-1 tvg-id="106671" tvg-logo="https://images.fancode.com/aig/match/v1/106671_CASACARDS_APP.png" group-title="cricket",icc mens t20 wc eap subregional qualifier a
+https://dai.google.com/linear/hls/event/LcNjsYEKQkqr37qBs4My5Q/master.m3u8
+#EXTINF:-1 tvg-id="106500" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/League-One-2024-25-old-match-card.png" group-title="football",league one 202425
+https://dai.google.com/linear/hls/event/SCikajCwRd6y0fx-zpImtw/master.m3u8
+#EXTINF:-1 tvg-id="106792" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/LIV_Golf_Greenbrier_match-card.jpg" group-title="golf",liv golf greenbrier
+https://dai.fancode.com/primary/106792_english_hls_4541adfreeta-di/index.m3u8
