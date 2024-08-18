@@ -1,7 +1,1 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="107067" tvg-logo="https://images.fancode.com/aig/match/v1/107067_CASACARDS_APP.png" group-title="cricket",max60 2024
-https://dai.google.com/linear/hls/event/j_Eab1p-RZOkT-qdILYdJw/master.m3u8
-#EXTINF:-1 tvg-id="106671" tvg-logo="https://images.fancode.com/aig/match/v1/106671_CASACARDS_APP.png" group-title="cricket",icc mens t20 wc eap subregional qualifier a
-https://dai.google.com/linear/hls/event/LcNjsYEKQkqr37qBs4My5Q/master.m3u8
-#EXTINF:-1 tvg-id="106792" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/LIV_Golf_Greenbrier_match-card.jpg" group-title="golf",liv golf greenbrier
-https://dai.fancode.com/primary/106792_english_hls_4541adfreeta-di/index.m3u8
