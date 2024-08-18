@@ -1,17 +1,5 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="103540" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/18th-Aug_Welsh-Fire-Women-vs-London-Spirit-Women_Old-Match-Card-1.jpg" group-title="cricket",the hundred women 2024
-https://dai.google.com/linear/hls/event/NO8rlg2DSzOWs75yVbufdw/master.m3u8
-#EXTINF:-1 tvg-id="105718" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Sri-Lanka-Womens-tour-of-Ireland-ODI-old-Match-card.png" group-title="cricket",sri lanka women tour of ireland 2024
-https://dai.google.com/linear/hls/event/2Dy31QnqQ9azqgd8Ux5WeA/master.m3u8
-#EXTINF:-1 tvg-id="106715" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/106715_4386_BB_SL_fc-web.jpg" group-title="cricket",ksca maharaja trophy t20 2024
-https://dai.google.com/linear/hls/event/JruMLpgEQVS5kL6ote3TFw/master.m3u8
-#EXTINF:-1 tvg-id="106875" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/106875_4393_KEL_RGD_fc-web.jpg" group-title="cricket",ecs italy rome 2024
-https://dai.google.com/linear/hls/event/POxjBYNNTX2B1MBpklPdAg/master.m3u8
-#EXTINF:-1 tvg-id="105627" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Metro-Bank-OD-Cup-semi-final-2-old.jpg" group-title="cricket",metro bank one day cup 2024
-https://dai.google.com/linear/hls/event/z6QmZd-3SrqeS9eDvnp6fg/master.m3u8
-#EXTINF:-1 tvg-id="105626" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Metro-Bank-OD-Cup-semi-final-1-old.jpg" group-title="cricket",metro bank one day cup 2024
-https://dai.google.com/linear/hls/event/Yw18yaFCQEeouUXsR4G2wg/master.m3u8
-#EXTINF:-1 tvg-id="106500" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/League-One-2024-25-old-match-card.png" group-title="football",league one 202425
-https://dai.google.com/linear/hls/event/SCikajCwRd6y0fx-zpImtw/master.m3u8
-#EXTINF:-1 tvg-id="106947" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Womens-Scottish-Open_Golf_Old-Match-Card.jpg" group-title="golf",womens scottish open
-https://dai.google.com/linear/hls/event/FWVYcXJPTIKgR901qWbD_Q/master.m3u8
+<html><head><title>500 Internal Server Error</title></head><body>
+<h2>Request Timeout</h2>
+<p>This request takes too long to process, it is timed out by the server. If it should not be timed out, please contact administrator of this web site to increase 'Connection Timeout'.
+</p>
+</body></html>
