@@ -1,7 +1,5 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="107069" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Max-60-old_match-51.jpg" group-title="cricket",max60 2024
-https://dai.google.com/linear/hls/event/gtrH1WfqRVW6R_qDZP68Jg/master.m3u8
-#EXTINF:-1 tvg-id="106804" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/106804_4392_KRM_IQS_fc-web.jpg" group-title="cricket",kcc t10 summer challengers cup 2024
-https://dai.google.com/linear/hls/event/lYI4DyMFR0Kfz14-4wY5gg/master.m3u8
-#EXTINF:-1 tvg-id="106805" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/106805_4392_AMB_KMW_fc-web.jpg" group-title="cricket",kcc t10 summer challengers cup 2024
-https://dai.google.com/linear/hls/event/sbjQTuCTRwOLP6vXQWepAw/master.m3u8
+<html><head><title>500 Internal Server Error</title></head><body>
+<h2>Request Timeout</h2>
+<p>This request takes too long to process, it is timed out by the server. If it should not be timed out, please contact administrator of this web site to increase 'Connection Timeout'.
+</p>
+</body></html>
