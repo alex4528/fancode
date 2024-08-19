@@ -1,7 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="107070" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Max-60-old_match-61.jpg" group-title="cricket",max60 2024
 https://dai.google.com/linear/hls/event/HTT4z6AeTkehRgMHDtJyLw/master.m3u8
-#EXTINF:-1 tvg-id="106805" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/106805_4392_AMB_KMW_fc-web.jpg" group-title="cricket",kcc t10 summer challengers cup 2024
-https://dai.google.com/linear/hls/event/sbjQTuCTRwOLP6vXQWepAw/master.m3u8
 #EXTINF:-1 tvg-id="106673" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/ICC-Mens-T20-WC-EAP-Sub-regional-Qualifier-A_old_01.jpg" group-title="cricket",icc mens t20 wc eap subregional qualifier a
 https://dai.google.com/linear/hls/event/NwoZpPsNS3eSZHcwgID0Ig/master.m3u8
