@@ -1,5 +1,10 @@
-<html><head><title>500 Internal Server Error</title></head><body>
-<h2>Request Timeout</h2>
-<p>This request takes too long to process, it is timed out by the server. If it should not be timed out, please contact administrator of this web site to increase 'Connection Timeout'.
-</p>
-</body></html>
+
+#EXTM3U
+#EXTINF:-1 tvg-id="106717" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/106717_4386_MW_MD_fc-web.jpg" group-title="cricket",ksca maharaja trophy t20 2024
+https://dai.google.com/linear/hls/event/XU9yLkUTQ02trLi3lt8INQ/master.m3u8
+#EXTINF:-1 tvg-id="106880" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/106880_4393_RCC_RC_fc-web.jpg" group-title="cricket",ecs italy rome 2024
+https://dai.google.com/linear/hls/event/nhwFSlpLQUSjeIAnAQJGjQ/master.m3u8
+#EXTINF:-1 tvg-id="106383" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/106383_4363_MMS_WTG_fc-web_1722522670698.jpg" group-title="cricket",pondicherry premier league 2024
+https://dai.google.com/linear/hls/event/okp10aMpQS-e8MWKObCkNQ/master.m3u8
+#EXTINF:-1 tvg-id="106667" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/106667_3908_CAN_USA_fc-web.jpg" group-title="cricket",icc cwc league 2 202327
+https://dai.google.com/linear/hls/event/_k1-FTrkRoCA17gAdzivnw/master.m3u8
