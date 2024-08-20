@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="106762" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/162.jpg" group-title="cricket",shpageeza cricket league 2024
-https://dai.google.com/linear/hls/event/rFzWno4_QqeB7Y2-7uh7Kg/master.m3u8
 #EXTINF:-1 tvg-id="106718" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/106718_4386_SL_HT_fc-web.jpg" group-title="cricket",ksca maharaja trophy t20 2024
 https://dai.google.com/linear/hls/event/KjsiYl6pSWCxssmM2-DDKg/master.m3u8
+#EXTINF:-1 tvg-id="106762" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/162.jpg" group-title="cricket",shpageeza cricket league 2024
+https://dai.google.com/linear/hls/event/rFzWno4_QqeB7Y2-7uh7Kg/master.m3u8
 #EXTINF:-1 tvg-id="105719" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Sri-Lanka-Womens-tour-of-Ireland-ODI-old-Match-card.png" group-title="cricket",sri lanka women tour of ireland 2024
 https://dai.google.com/linear/hls/event/gndQmpzAT0Ww9iXpptu1tA/master.m3u8
 #EXTINF:-1 tvg-id="106719" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/106719_4386_GMY_MD_fc-web.jpg" group-title="cricket",ksca maharaja trophy t20 2024
