@@ -1,9 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="106674" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/ICC-Mens-T20-WC-EAP-Sub-regional-Qualifier-A_old_05.jpg" group-title="cricket",icc mens t20 wc eap subregional qualifier a
-https://dai.google.com/linear/hls/event/jwli1btGReuI1hFq2-SKgg/master.m3u8
+#EXTINF:-1 tvg-id="106761" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/152.jpg" group-title="cricket",shpageeza cricket league 2024
+https://dai.google.com/linear/hls/event/FfUanBPLTDyQF0tfuZ3htg/master.m3u8
 #EXTINF:-1 tvg-id="106925" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/106925_4394_CCC_LSC_fc-web_1723446935248.jpg" group-title="cricket",assam mens t20
 https://dai.google.com/linear/hls/event/vBgPtea0T6ezbnq6kB0qwA/master.m3u8
-#EXTINF:-1 tvg-id="106081" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Match-439_MLB_Old-Match-Card.jpg" group-title="baseball",mlb
-https://dai.google.com/linear/hls/event/_cNdWjhuTuiVsofXp6oPfA/master.m3u8
 #EXTINF:-1 tvg-id="106082" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Match-440_MLB_Old-Match-Card.jpg" group-title="baseball",mlb
 https://dai.google.com/linear/hls/event/NNqrWCRRTvezZ34LGmSXnw/master.m3u8
