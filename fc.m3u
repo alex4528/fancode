@@ -1,5 +1,7 @@
-<html><head><title>500 Internal Server Error</title></head><body>
-<h2>Request Timeout</h2>
-<p>This request takes too long to process, it is timed out by the server. If it should not be timed out, please contact administrator of this web site to increase 'Connection Timeout'.
-</p>
-</body></html>
+#EXTM3U
+#EXTINF:-1 tvg-id="107072" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Max-60-old_match-81.jpg" group-title="cricket",max60 2024
+https://dai.google.com/linear/hls/event/XhJFbm5GQDWOaY0M563SxA/master.m3u8
+#EXTINF:-1 tvg-id="106807" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/106807_4392_SZN_COH_fc-web.jpg" group-title="cricket",kcc t10 summer challengers cup 2024
+https://dai.google.com/linear/hls/event/PaH_di18SrGej_TXuxc2rQ/master.m3u8
+#EXTINF:-1 tvg-id="106675" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/ICC-Mens-T20-WC-EAP-Sub-regional-Qualifier-A_old_04.jpg" group-title="cricket",icc mens t20 wc eap subregional qualifier a
+https://dai.google.com/linear/hls/event/vhyWNu0tTlu7hZavIpMnbA/master.m3u8
