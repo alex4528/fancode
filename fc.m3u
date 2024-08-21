@@ -1,5 +1,21 @@
-<html><head><title>500 Internal Server Error</title></head><body>
-<h2>Request Timeout</h2>
-<p>This request takes too long to process, it is timed out by the server. If it should not be timed out, please contact administrator of this web site to increase 'Connection Timeout'.
-</p>
-</body></html>
+#EXTM3U
+#EXTINF:-1 tvg-id="105712" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Sri-Lanka-tour-of-England-test-old-match-cardpsd.png" group-title="cricket",sri lanka tour of england 2024
+
+#EXTINF:-1 tvg-id="106720" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/106720_4386_GMY_SL_fc-web.jpg" group-title="cricket",ksca maharaja trophy t20 2024
+https://dai.google.com/linear/hls/event/r3f_YZIYTSOwsP0S7ssi-w/master.m3u8
+#EXTINF:-1 tvg-id="106681" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/106681_4385_SPA_CYP_fc-web.jpg" group-title="cricket",icc t20 world cup sub regional europe qualifier c
+https://dai.google.com/linear/hls/event/E2civ967R_SVPchqVemVPA/master.m3u8
+#EXTINF:-1 tvg-id="106764" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/182.jpg" group-title="cricket",shpageeza cricket league 2024
+https://dai.google.com/linear/hls/event/Su81G-WXQBK8MV6GoND1Ag/master.m3u8
+#EXTINF:-1 tvg-id="106682" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/106682_4385_GSY_BUL_fc-web.jpg" group-title="cricket",icc t20 world cup sub regional europe qualifier c
+https://dai.google.com/linear/hls/event/743uPZKRSIqtUERfCJFPFQ/master.m3u8
+#EXTINF:-1 tvg-id="106384" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/106359_4363_WTG_MMS_fc-web_1722522669978.jpg" group-title="cricket",pondicherry premier league 2024
+https://dai.google.com/linear/hls/event/KCpb-YexSXmiYMCqrrCL4w/master.m3u8
+#EXTINF:-1 tvg-id="106889" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/106889_4393_KEL_RBMS_fc-web.jpg" group-title="cricket",ecs italy rome 2024
+https://dai.google.com/linear/hls/event/NlpkB_D3TPet9JMonhbkPA/master.m3u8
+#EXTINF:-1 tvg-id="106668" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/106668_3908_NED_USA_fc-web.jpg" group-title="cricket",icc cwc league 2 202327
+https://dai.google.com/linear/hls/event/i410eNiaS0O7VuXEnGxzUA/master.m3u8
+#EXTINF:-1 tvg-id="107598" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Volleyball-Beach-Pro-old-match-card-2.png" group-title="live-events",volleyball beach pro tour
+https://dai.google.com/linear/hls/event/f9WctVw-TQeBrBg2hEMLCQ/master.m3u8
+#EXTINF:-1 tvg-id="107599" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Volleyball-Beach-Pro-old-match-card-2.png" group-title="live-events",volleyball beach pro tour
+https://dai.google.com/linear/hls/event/wFuGWizqQnaO-xL3cKOaEQ/master.m3u8
