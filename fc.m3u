@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="105712" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Sri-Lanka-tour-of-England-test-old-match-cardpsd.png" group-title="cricket",sri lanka tour of england 2024
 
-#EXTINF:-1 tvg-id="106764" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/182.jpg" group-title="cricket",shpageeza cricket league 2024
-https://dai.google.com/linear/hls/event/Su81G-WXQBK8MV6GoND1Ag/master.m3u8
+#EXTINF:-1 tvg-id="106721" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/106721_4386_MW_HT_fc-web.jpg" group-title="cricket",ksca maharaja trophy t20 2024
+https://dai.google.com/linear/hls/event/wrjf66mSS1KO77Q0NwpeCg/master.m3u8
 #EXTINF:-1 tvg-id="107439" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/107439_4425_MLT-W_IM-W_fc-web.jpg" group-title="cricket",ecn valletta cup t20iw 2024
 https://dai.google.com/linear/hls/event/We2qgY24ReKUhk25Dh9U1g/master.m3u8
 #EXTINF:-1 tvg-id="106890" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/106890_4393_BOL_RBMS_fc-web.jpg" group-title="cricket",ecs italy rome 2024
@@ -15,5 +15,3 @@ https://dai.google.com/linear/hls/event/i410eNiaS0O7VuXEnGxzUA/master.m3u8
 https://dai.google.com/linear/hls/event/f9WctVw-TQeBrBg2hEMLCQ/master.m3u8
 #EXTINF:-1 tvg-id="107599" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Volleyball-Beach-Pro-old-match-card-2.png" group-title="live-events",volleyball beach pro tour
 https://dai.google.com/linear/hls/event/wFuGWizqQnaO-xL3cKOaEQ/master.m3u8
-#EXTINF:-1 tvg-id="106721" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/106721_4386_MW_HT_fc-web.jpg" group-title="cricket",ksca maharaja trophy t20 2024
-https://dai.google.com/linear/hls/event/wrjf66mSS1KO77Q0NwpeCg/master.m3u8
