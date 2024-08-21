@@ -3,6 +3,8 @@
 
 #EXTINF:-1 tvg-id="106721" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/106721_4386_MW_HT_fc-web.jpg" group-title="cricket",ksca maharaja trophy t20 2024
 https://dai.google.com/linear/hls/event/wrjf66mSS1KO77Q0NwpeCg/master.m3u8
+#EXTINF:-1 tvg-id="107074" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Max-60-old_match-101.jpg" group-title="cricket",max60 2024
+https://dai.google.com/linear/hls/event/nbwU0fQxRdSkrY_bM1APzg/master.m3u8
 #EXTINF:-1 tvg-id="107439" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/107439_4425_MLT-W_IM-W_fc-web.jpg" group-title="cricket",ecn valletta cup t20iw 2024
 https://dai.google.com/linear/hls/event/We2qgY24ReKUhk25Dh9U1g/master.m3u8
 #EXTINF:-1 tvg-id="106890" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/106890_4393_BOL_RBMS_fc-web.jpg" group-title="cricket",ecs italy rome 2024
