@@ -1,5 +1,9 @@
-<html><head><title>500 Internal Server Error</title></head><body>
-<h2>Request Timeout</h2>
-<p>This request takes too long to process, it is timed out by the server. If it should not be timed out, please contact administrator of this web site to increase 'Connection Timeout'.
-</p>
-</body></html>
+#EXTM3U
+#EXTINF:-1 tvg-id="106887" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/106887_4393_KEL_RGD_fc-web.jpg" group-title="cricket",ecs italy rome 2024
+https://dai.google.com/linear/hls/event/unnpC_AiQ-WgBglaeMBscA/master.m3u8
+#EXTINF:-1 tvg-id="106928" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/106928_4394_GTC_RRC_fc-web_1723446935246.jpg" group-title="cricket",assam mens t20
+https://dai.google.com/linear/hls/event/-QV1vuwPTuqx2PUbhjuJdQ/master.m3u8
+#EXTINF:-1 tvg-id="107598" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Volleyball-Beach-Pro-old-match-card-2.png" group-title="live-events",volleyball beach pro tour
+https://dai.google.com/linear/hls/event/f9WctVw-TQeBrBg2hEMLCQ/master.m3u8
+#EXTINF:-1 tvg-id="107599" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Volleyball-Beach-Pro-old-match-card-2.png" group-title="live-events",volleyball beach pro tour
+https://dai.google.com/linear/hls/event/RzCTfPg6R6KHy-zI0k4NeA/master.m3u8
