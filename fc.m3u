@@ -1,3 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="106763" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/172.jpg" group-title="cricket",shpageeza cricket league 2024
 https://dai.google.com/linear/hls/event/c7HsHWaOQBCZJUjxub9hGw/master.m3u8
+#EXTINF:-1 tvg-id="106887" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/106887_4393_KEL_RGD_fc-web.jpg" group-title="cricket",ecs italy rome 2024
+https://dai.google.com/linear/hls/event/unnpC_AiQ-WgBglaeMBscA/master.m3u8
+#EXTINF:-1 tvg-id="107598" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Volleyball-Beach-Pro-old-match-card-2.png" group-title="live-events",volleyball beach pro tour
+https://dai.google.com/linear/hls/event/f9WctVw-TQeBrBg2hEMLCQ/master.m3u8
