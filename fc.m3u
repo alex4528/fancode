@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="105712" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Sri-Lanka-tour-of-England-test-old-match-cardpsd.png" group-title="cricket",sri lanka tour of england 2024
+
 #EXTINF:-1 tvg-id="106722" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/106722_4386_MW_SL_fc-web.jpg" group-title="cricket",ksca maharaja trophy t20 2024
 https://dai.google.com/linear/hls/event/oUGFT3riRZ21UbAF9oXCWQ/master.m3u8
 #EXTINF:-1 tvg-id="106766" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/202.jpg" group-title="cricket",shpageeza cricket league 2024
@@ -7,10 +9,10 @@ https://dai.google.com/linear/hls/event/XYhRszwKTgyFYCZmLrwtEg/master.m3u8
 https://dai.google.com/linear/hls/event/slQehMYnTVOnyTAQFIrIwA/master.m3u8
 #EXTINF:-1 tvg-id="106984" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/106884_4393_RC_ROR_fc-web.jpg" group-title="cricket",ecs italy rome 2024
 https://dai.google.com/linear/hls/event/pUqMfohTTBWevnSdqzTgxw/master.m3u8
-#EXTINF:-1 tvg-id="106685" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/106685_4385_GRE_DEN_fc-web.jpg" group-title="cricket",icc t20 world cup sub regional europe qualifier c
-https://dai.google.com/linear/hls/event/JOWpsONGSi6XTcNDpznL7A/master.m3u8
 #EXTINF:-1 tvg-id="106686" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/106686_4385_EST_FIN_fc-web.jpg" group-title="cricket",icc t20 world cup sub regional europe qualifier c
 https://dai.google.com/linear/hls/event/v-XMtus2QTm0z5f5BNB88w/master.m3u8
+#EXTINF:-1 tvg-id="106685" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/106685_4385_GRE_DEN_fc-web.jpg" group-title="cricket",icc t20 world cup sub regional europe qualifier c
+https://dai.google.com/linear/hls/event/JOWpsONGSi6XTcNDpznL7A/master.m3u8
 #EXTINF:-1 tvg-id="100474" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/05/Ireland-Inter-Provincial-OD-Trophy_old_03.jpg" group-title="cricket",ireland interprovincial limited over cup 2024
 https://dai.google.com/linear/hls/event/KvFWuWIvSYGHRI6Pk1cWpQ/master.m3u8
 #EXTINF:-1 tvg-id="107500" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Volleyball-Beach-Pro-old-match-card-2.png" group-title="live-events",volleyball beach pro tour
