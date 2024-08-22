@@ -9,6 +9,9 @@ https://dai.google.com/linear/hls/event/eVgyQKqSTOK585xJTF0N9w/master.m3u8
 #EXTINF:-1 tvg-id="106088" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Match-446_MLB_Old-Match-Card.jpg" group-title="LIVE-EVENTS",washington nationals vs colorado rockies
 https://dai.google.com/linear/hls/event/81opypxdSrq118DoD5cBFg/master.m3u8
 
+#EXTINF:-1 tvg-id="106089" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Baseball-1440-x-360.jpg" group-title="LIVE-EVENTS",oakland athletics vs tampa bay rays
+https://dai.google.com/linear/hls/event/dvlAN28sTw2nM3bqysi8zg/master.m3u8
+
 #EXTINF:-1 tvg-id="106780" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/EFL-league-two-old-matchcard-1.png" group-title="LIVE-EVENTS",notts county vs grimsby town
 https://dai.google.com/linear/hls/event/okLdPAluSGSEIFGHbkdBvQ/master.m3u8
 
