@@ -3,3 +3,5 @@
 https://dai.google.com/linear/hls/event/S3WHNJ_-QUOv28fSOMPu3A/master.m3u8
 #EXTINF:-1 tvg-id="106087" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Match-445_MLB_Old-Match-Card.jpg" group-title="baseball",mlb
 https://dai.google.com/linear/hls/event/gXc-jWHeQte9N4ncI9dhVQ/master.m3u8
+#EXTINF:-1 tvg-id="106650" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Kuwait-vs-Malaysia-old.png" group-title="cricket",t20 international trinations cup
+https://dai.google.com/linear/hls/event/NmX-pnetRpaKplUNOASxbA/master.m3u8
