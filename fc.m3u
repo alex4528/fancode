@@ -1,11 +1,5 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="106722" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/106722_4386_MW_SL_fc-web.jpg" group-title="cricket",ksca maharaja trophy t20 2024
-https://dai.google.com/linear/hls/event/oUGFT3riRZ21UbAF9oXCWQ/master.m3u8
-#EXTINF:-1 tvg-id="106930" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/106930_4394_CCC_RRC_fc-web_1723446935094.jpg" group-title="cricket",assam mens t20
-https://dai.google.com/linear/hls/event/slQehMYnTVOnyTAQFIrIwA/master.m3u8
-#EXTINF:-1 tvg-id="106984" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/106884_4393_RC_ROR_fc-web.jpg" group-title="cricket",ecs italy rome 2024
-https://dai.google.com/linear/hls/event/pUqMfohTTBWevnSdqzTgxw/master.m3u8
-#EXTINF:-1 tvg-id="107500" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Volleyball-Beach-Pro-old-match-card-2.png" group-title="live-events",volleyball beach pro tour
-https://dai.google.com/linear/hls/event/3zEkzI1DRASZN4C__dHBdQ/master.m3u8
-#EXTINF:-1 tvg-id="107499" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Volleyball-Beach-Pro-old-match-card-2.png" group-title="live-events",volleyball beach pro tour
-https://dai.google.com/linear/hls/event/ig6J0qa4RFeqY5IVerhQ_A/master.m3u8
+<html><head><title>500 Internal Server Error</title></head><body>
+<h2>Request Timeout</h2>
+<p>This request takes too long to process, it is timed out by the server. If it should not be timed out, please contact administrator of this web site to increase 'Connection Timeout'.
+</p>
+</body></html>
