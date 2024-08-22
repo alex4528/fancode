@@ -1,11 +1,14 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="106810" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/106810_4392_FRB_IQS_fc-web.jpg" group-title="LIVE-EVENTS",friendi mobile vs ishaq xi
-https://dai.google.com/linear/hls/event/VJx3h61KQl2AN3urSYqDuA/master.m3u8
+#EXTINF:-1 tvg-id="107080" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Max-60-old_match-161.jpg" group-title="LIVE-EVENTS",new york strikers vs caribbean tigers
+https://dai.google.com/linear/hls/event/puElvrLQSiK8kWKXgaBl4A/master.m3u8
 
 #EXTINF:-1 tvg-id="106088" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Match-446_MLB_Old-Match-Card.jpg" group-title="LIVE-EVENTS",washington nationals vs colorado rockies
 https://dai.google.com/linear/hls/event/81opypxdSrq118DoD5cBFg/master.m3u8
 
-#EXTINF:-1 tvg-id="107079" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Max-60-old_match-151.jpg" group-title="LIVE-EVENTS",boca raton trailblazers vs miami lions
-https://dai.google.com/linear/hls/event/FbMWTe2NSOCYBE9PELyf0Q/master.m3u8
+#EXTINF:-1 tvg-id="106811" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/106811_4392_AMB_SZN_fc-web.jpg" group-title="LIVE-EVENTS",seazen challengers vs al mulla exchange b
+https://dai.google.com/linear/hls/event/eVgyQKqSTOK585xJTF0N9w/master.m3u8
+
+#EXTINF:-1 tvg-id="106780" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/EFL-league-two-old-matchcard-1.png" group-title="LIVE-EVENTS",notts county vs grimsby town
+https://dai.google.com/linear/hls/event/okLdPAluSGSEIFGHbkdBvQ/master.m3u8
 
