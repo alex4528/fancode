@@ -1,7 +1,5 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="106765" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/192.jpg" group-title="cricket",shpageeza cricket league 2024
-https://dai.google.com/linear/hls/event/JPNurNWgT2OHlQMvLpRXWA/master.m3u8
-#EXTINF:-1 tvg-id="107500" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Volleyball-Beach-Pro-old-match-card-2.png" group-title="live-events",volleyball beach pro tour
-https://dai.google.com/linear/hls/event/3zEkzI1DRASZN4C__dHBdQ/master.m3u8
-#EXTINF:-1 tvg-id="107499" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Volleyball-Beach-Pro-old-match-card-2.png" group-title="live-events",volleyball beach pro tour
-https://dai.google.com/linear/hls/event/ig6J0qa4RFeqY5IVerhQ_A/master.m3u8
+<html><head><title>500 Internal Server Error</title></head><body>
+<h2>Request Timeout</h2>
+<p>This request takes too long to process, it is timed out by the server. If it should not be timed out, please contact administrator of this web site to increase 'Connection Timeout'.
+</p>
+</body></html>
