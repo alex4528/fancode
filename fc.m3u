@@ -1,7 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="106765" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/192.jpg" group-title="cricket",shpageeza cricket league 2024
+https://dai.google.com/linear/hls/event/JPNurNWgT2OHlQMvLpRXWA/master.m3u8
 #EXTINF:-1 tvg-id="106929" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/106929_4394_NYC_SGC_fc-web_1723446935245.jpg" group-title="cricket",assam mens t20
 https://dai.google.com/linear/hls/event/68qCz0_IReSrXcj2hSRGyA/master.m3u8
-#EXTINF:-1 tvg-id="106087" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Match-445_MLB_Old-Match-Card.jpg" group-title="baseball",mlb
-https://dai.google.com/linear/hls/event/gXc-jWHeQte9N4ncI9dhVQ/master.m3u8
 #EXTINF:-1 tvg-id="106650" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Kuwait-vs-Malaysia-old.png" group-title="cricket",t20 international trinations cup
 https://dai.google.com/linear/hls/event/NmX-pnetRpaKplUNOASxbA/master.m3u8
