@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="106656" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/WCPL_Old_Match-1.png" group-title="cricket",womens caribbean premier league 2024
 https://dai.google.com/linear/hls/event/S3WHNJ_-QUOv28fSOMPu3A/master.m3u8
+#EXTINF:-1 tvg-id="106087" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Match-445_MLB_Old-Match-Card.jpg" group-title="baseball",mlb
+https://dai.google.com/linear/hls/event/gXc-jWHeQte9N4ncI9dhVQ/master.m3u8
