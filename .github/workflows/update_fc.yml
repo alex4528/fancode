@@ -2,7 +2,7 @@ name: Update fc.m3u
 
 on:
   schedule:
-    - cron: '*/10 * * * *' # Runs every 20 minutes
+    - cron: '*/10 * * * *' # Runs every 20 minutes..
 
 jobs:
   update-file:
