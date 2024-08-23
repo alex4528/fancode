@@ -3,14 +3,11 @@
 #EXTINF:-1 tvg-id="102208" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/South-Africa-vs-West-indies_T20_V1_old.jpg" group-title="LIVE-EVENTS",south africa vs west indies
 https://dai.google.com/linear/hls/event/kfP42pxrRe6oSGRMqoCEBA/master.m3u8
 
-#EXTINF:-1 tvg-id="107084" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Max-60-old_match-201.jpg" group-title="LIVE-EVENTS",boca raton trailblazers vs new york strikers
-https://dai.google.com/linear/hls/event/FQPVc3zKTni-miqZkejZ5g/master.m3u8
+#EXTINF:-1 tvg-id="106679" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/ICC-Mens-T20-WC-EAP-Sub-regional-Qualifier-A_old_05.jpg" group-title="LIVE-EVENTS",fiji vs cook islands
+https://dai.google.com/linear/hls/event/jzAMvao3SVu8y2jLhzd9nQ/master.m3u8
 
 #EXTINF:-1 tvg-id="106813" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/106813_4392_FRB_COH_fc-web.jpg" group-title="LIVE-EVENTS",friendi mobile vs cochin hurricanes
 https://dai.google.com/linear/hls/event/k2ZC4F5uQmawJa3bPoSJcA/master.m3u8
-
-#EXTINF:-1 tvg-id="106679" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/ICC-Mens-T20-WC-EAP-Sub-regional-Qualifier-A_old_05.jpg" group-title="LIVE-EVENTS",fiji vs cook islands
-https://dai.google.com/linear/hls/event/jzAMvao3SVu8y2jLhzd9nQ/master.m3u8
 
 #EXTINF:-1 tvg-id="106273" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/106273_4352_SHFF_LU_fc-web_1723042859753.jpg" group-title="LIVE-EVENTS",sheffield wednesday vs leeds united
 https://dai.google.com/linear/hls/event/T9FfSe1_SQucccr1HB40eQ/master.m3u8
