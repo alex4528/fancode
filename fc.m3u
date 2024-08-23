@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="107082" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Max-60-old_match-181.jpg" group-title="LIVE-EVENTS",caribbean tigers vs boca raton trailblazers
+https://dai.google.com/linear/hls/event/Z9n17AtJRh2Npvw6PhpRMw/master.m3u8
+
 #EXTINF:-1 tvg-id="106725" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/106725_4386_MD_GMY_fc-web.jpg" group-title="LIVE-EVENTS",mangaluru dragons vs gulbarga mystics
 https://dai.google.com/linear/hls/event/jQR6dSH2TVi7L0s1XZzQYQ/master.m3u8
 
