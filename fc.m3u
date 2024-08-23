@@ -1,13 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="107082" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Max-60-old_match-181.jpg" group-title="LIVE-EVENTS",caribbean tigers vs boca raton trailblazers
-https://dai.google.com/linear/hls/event/Z9n17AtJRh2Npvw6PhpRMw/master.m3u8
-
 #EXTINF:-1 tvg-id="106725" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/106725_4386_MD_GMY_fc-web.jpg" group-title="LIVE-EVENTS",mangaluru dragons vs gulbarga mystics
 https://dai.google.com/linear/hls/event/jQR6dSH2TVi7L0s1XZzQYQ/master.m3u8
 
 #EXTINF:-1 tvg-id="107430" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Match-1-Netherlands-vs-Canada-1.png" group-title="LIVE-EVENTS",canada vs netherlands
 https://dai.google.com/linear/hls/event/T4_UkdxiT7qRcYnVBhcukg/master.m3u8
+
+#EXTINF:-1 tvg-id="107082" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Max-60-old_match-181.jpg" group-title="LIVE-EVENTS",caribbean tigers vs boca raton trailblazers
+https://dai.google.com/linear/hls/event/Z9n17AtJRh2Npvw6PhpRMw/master.m3u8
 
 #EXTINF:-1 tvg-id="107443" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/107443_4425_IM-W_SRBW_fc-web.jpg" group-title="LIVE-EVENTS",isle of man women vs serbia women
 https://dai.google.com/linear/hls/event/MFPxlNJSRE2saOgZJ9pQzA/master.m3u8
@@ -18,14 +18,11 @@ https://dai.google.com/linear/hls/event/WW3axryDQCafy3raGhfgzQ/master.m3u8
 #EXTINF:-1 tvg-id="106900" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/106870_4393_ROR_RCC_fc-web.jpg" group-title="LIVE-EVENTS",royal roma vs roma cc
 https://dai.google.com/linear/hls/event/c2PXSABYRna9RwxNwwaPAA/master.m3u8
 
-#EXTINF:-1 tvg-id="107501" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Volleyball-Beach-Pro-old-match-card-2.png" group-title="LIVE-EVENTS",volleyball beach pro central court
-https://dai.google.com/linear/hls/event/f5PbV2yuQD2t9jidqG4gCw/master.m3u8
-
 #EXTINF:-1 tvg-id="107502" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Volleyball-Beach-Pro-old-match-card-2.png" group-title="LIVE-EVENTS",volleyball beach pro court 2
 https://dai.google.com/linear/hls/event/EP2Xq0JTQhC8FtqOT5rsDA/master.m3u8
 
-#EXTINF:-1 tvg-id="107614" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Danish-Golf-Championship_match-card.jpg" group-title="LIVE-EVENTS",day 2
-https://dai.google.com/linear/hls/event/Jj54vrz0RomOgPpGeTj4tg/master.m3u8
+#EXTINF:-1 tvg-id="107501" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Volleyball-Beach-Pro-old-match-card-2.png" group-title="LIVE-EVENTS",volleyball beach pro central court
+https://dai.google.com/linear/hls/event/f5PbV2yuQD2t9jidqG4gCw/master.m3u8
 
 #EXTINF:-1 tvg-id="96852" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/03/F1_Academy_match-card_Old_match-card.jpg" group-title="LIVE-EVENTS",free practice 2
 https://dai.google.com/linear/hls/event/KWMxCvqTSiqsCuo6L6di6g/master.m3u8
