@@ -12,6 +12,12 @@ https://dai.google.com/linear/hls/event/Ww2sapG_T0y3lQou0ObLxw/master.m3u8
 #EXTINF:-1 tvg-id="106091" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Match-449_MLB_Old-Match-Card.jpg" group-title="LIVE-EVENTS",kansas city royals vs philadelphia phillies
 https://dai.google.com/linear/hls/event/1d-c7ygfTqicW6vut6bVvg/master.m3u8
 
+#EXTINF:-1 tvg-id="106092" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Match-450_MLB_Old-Match-Card.jpg" group-title="LIVE-EVENTS",los angeles dodgers vs tampa bay rays
+https://dai.google.com/linear/hls/event/Du35wrYvS8qX6gaBMdgUGQ/master.m3u8
+
+#EXTINF:-1 tvg-id="106652" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Hong-Kong-vs-Kuwait-old.png" group-title="LIVE-EVENTS",hong kong china vs kuwait
+https://dai.google.com/linear/hls/event/-hQNkuTiS3OBac71o8ETUQ/master.m3u8
+
 #EXTINF:-1 tvg-id="105949" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/PFL_Playoffs_23_Aug_24_Old_match-card.jpg" group-title="LIVE-EVENTS",welterweight featherweights
 https://dai.fancode.com/primary/105949_english_hls_5386adfreeta-di/index.m3u8
 
