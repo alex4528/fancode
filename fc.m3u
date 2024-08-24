@@ -13,8 +13,6 @@ https://dai.google.com/linear/hls/event/iMaJlqxsTE2_m51GsnE9vw/master.m3u8
 https://dai.google.com/linear/hls/event/840fwgrEQyWRol-gCLIVtw/master.m3u8
 #EXTINF:-1 tvg-id="106691" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/106691_4385_CYP_GRE_fc-web.jpg" group-title="cricket",greece vs cyprus
 https://dai.google.com/linear/hls/event/GTqxPB3rS4CpvV7rqmmosw/master.m3u8
-#EXTINF:-1 tvg-id="106274" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/106274_4352_SUN_BUR_fc-web_1723042859765.jpg" group-title="football",sunderland vs burnley
-https://dai.google.com/linear/hls/event/CU9aQ9XvSP6dRc8Uch75ZQ/master.m3u8
 #EXTINF:-1 tvg-id="107933" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Volleyball-Beach-Pro-old-match-card-2.png" group-title="live-events",volleyball beach pro central court
 https://dai.google.com/linear/hls/event/vZIWq6kJR-uXJFa7t8hSGw/master.m3u8
 #EXTINF:-1 tvg-id="107934" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Volleyball-Beach-Pro-old-match-card-2.png" group-title="live-events",volleyball beach pro court 2
@@ -23,3 +21,5 @@ https://dai.google.com/linear/hls/event/KMmncFbhRNqALiFBgUcI0A/master.m3u8
 https://dai.google.com/linear/hls/event/mtvvWa0cTMGq74xu-Pttag/master.m3u8
 #EXTINF:-1 tvg-id="107480" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Meltl_Shield_Europe_2024_Old_match-card_02.jpg" group-title="cricket",british and irish roses vs team europew
 https://dai.google.com/linear/hls/event/38ukalOdRDmM9qGCGrW5Zg/master.m3u8
+#EXTINF:-1 tvg-id="106274" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/106274_4352_SUN_BUR_fc-web_1723042859765.jpg" group-title="football",sunderland vs burnley
+https://dai.google.com/linear/hls/event/CU9aQ9XvSP6dRc8Uch75ZQ/master.m3u8
