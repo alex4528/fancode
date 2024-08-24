@@ -11,15 +11,15 @@ https://dai.google.com/linear/hls/event/gLFIP5RhT9y3TeWYpdCsfA/master.m3u8
 https://dai.google.com/linear/hls/event/GiPusMXDR0qLjQE3k2mOvA/master.m3u8
 #EXTINF:-1 tvg-id="106690" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/106690_4385_GSY_FIN_fc-web.jpg" group-title="cricket",guernsey vs finland
 https://dai.google.com/linear/hls/event/6Rt10i1nR7eA4R6NdH-P6g/master.m3u8
-#EXTINF:-1 tvg-id="107445" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/107445_4425_SRBW_MLT-W_fc-web.jpg" group-title="cricket",serbia women vs malta women
-https://dai.google.com/linear/hls/event/hvYyAqBgSkyTtuF6-5AYsA/master.m3u8
 #EXTINF:-1 tvg-id="106689" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/106689_4385_SPA_DEN_fc-web.jpg" group-title="cricket",spain vs denmark
 https://dai.google.com/linear/hls/event/ty2cbrU_RTmwEz5J8xDDaw/master.m3u8
+#EXTINF:-1 tvg-id="107445" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/107445_4425_SRBW_MLT-W_fc-web.jpg" group-title="cricket",serbia women vs malta women
+https://dai.google.com/linear/hls/event/hvYyAqBgSkyTtuF6-5AYsA/master.m3u8
+#EXTINF:-1 tvg-id="107914" tvg-logo="https://images.fancode.com/aig/match/v1/107914_CASACARDS_APP.png" group-title="football",queens park rangers vs plymouth argyle
+https://dai.google.com/linear/hls/event/APrHwFMIQi25n_Aj-kRvMA/master.m3u8
 #EXTINF:-1 tvg-id="105701" tvg-logo="https://images.fancode.com/aig/match/v1/105701_CASACARDS_APP.png" group-title="football",gamba osaka vs avispa fukuoka
 https://dai.fancode.com/primary/105701_english_hls_8572adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-id="105703" tvg-logo="https://images.fancode.com/aig/match/v1/105703_CASACARDS_APP.png" group-title="football",yokohama f marinos vs cerezo osaka
 https://dai.fancode.com/primary/105703_english_hls_5070adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-id="105702" tvg-logo="https://images.fancode.com/aig/match/v1/105702_CASACARDS_APP.png" group-title="football",urawa red diamonds vs kawasaki frontale
 https://dai.fancode.com/primary/105702_english_hls_8400adfreeta-no/index.m3u8
-#EXTINF:-1 tvg-id="107933" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Volleyball-Beach-Pro-old-match-card-2.png" group-title="live-events",volleyball beach pro central court
-https://dai.google.com/linear/hls/event/vZIWq6kJR-uXJFa7t8hSGw/master.m3u8
