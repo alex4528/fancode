@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="107257" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Indian-Racing-Festival_old.jpg" group-title="motorsports",round 1 day 1
+https://dai.google.com/linear/hls/event/izB_PGYFRhOTj0yQ7MPlOQ/master.m3u8
 #EXTINF:-1 tvg-id="106767" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/04-1.jpg" group-title="cricket",bandeamir dragons vs amo sharks
 https://dai.google.com/linear/hls/event/nM1iUGEqSOOdXhVdVG857Q/master.m3u8
 #EXTINF:-1 tvg-id="106726" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/106726_4386_GMY_MW_fc-web.jpg" group-title="cricket",mysore warriors vs gulbarga mystics
@@ -17,7 +19,5 @@ https://dai.fancode.com/primary/105701_english_hls_8572adfreeta-no/index.m3u8
 https://dai.google.com/linear/hls/event/KMmncFbhRNqALiFBgUcI0A/master.m3u8
 #EXTINF:-1 tvg-id="107933" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Volleyball-Beach-Pro-old-match-card-2.png" group-title="live-events",volleyball beach pro central court
 https://dai.google.com/linear/hls/event/vZIWq6kJR-uXJFa7t8hSGw/master.m3u8
-#EXTINF:-1 tvg-id="107257" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Indian-Racing-Festival_old.jpg" group-title="motorsports",round 1 day 1
-https://dai.google.com/linear/hls/event/izB_PGYFRhOTj0yQ7MPlOQ/master.m3u8
 #EXTINF:-1 tvg-id="107477" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Meltl_Shield_Europe_2024_Old_match-card_01.jpg" group-title="cricket",team europew vs british and irish roses
 https://dai.google.com/linear/hls/event/s1N-5YcnSHO5Kg7wYOF6mg/master.m3u8
