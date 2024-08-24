@@ -1,1 +1,15 @@
-Failed to fetch or parse API data.
+#EXTM3U
+#EXTINF:-1 tvg-id="106767" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/04-1.jpg" group-title="cricket",bandeamir dragons vs amo sharks
+https://dai.google.com/linear/hls/event/nM1iUGEqSOOdXhVdVG857Q/master.m3u8
+#EXTINF:-1 tvg-id="107444" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/107444_4425_MCC-W_GREW_fc-web.jpg" group-title="cricket",mcc women vs greece women
+https://dai.google.com/linear/hls/event/lON84kN5R6q9SEnDvVQ7sQ/master.m3u8
+#EXTINF:-1 tvg-id="106934" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/106934_4394_BCC_SGC_fc-web_1723446935295.jpg" group-title="cricket",sath gaon club vs bud cricket club
+https://dai.google.com/linear/hls/event/GiPusMXDR0qLjQE3k2mOvA/master.m3u8
+#EXTINF:-1 tvg-id="107476" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Meltl_Shield_Europe_2024_Old_match-card_02.jpg" group-title="cricket",team europew vs british and irish roses
+https://dai.google.com/linear/hls/event/qOC_2lq_RTSYKvQF59mUMg/master.m3u8
+#EXTINF:-1 tvg-id="107934" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Volleyball-Beach-Pro-old-match-card-2.png" group-title="live-events",volleyball beach pro court 2
+https://dai.google.com/linear/hls/event/KMmncFbhRNqALiFBgUcI0A/master.m3u8
+#EXTINF:-1 tvg-id="107933" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Volleyball-Beach-Pro-old-match-card-2.png" group-title="live-events",volleyball beach pro central court
+https://dai.google.com/linear/hls/event/vZIWq6kJR-uXJFa7t8hSGw/master.m3u8
+#EXTINF:-1 tvg-id="96853" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/03/F1_Academy_match-card_Old_match-card.jpg" group-title="motorsports",qualifying session
+https://dai.google.com/linear/hls/event/DcABW4KtTb2GSL_CTIUZ-g/master.m3u8
