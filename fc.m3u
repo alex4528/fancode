@@ -1,13 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="107085" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Max-60-old_match-111.jpg" group-title="cricket",boca raton trailblazers vs new york strikers
-https://dai.google.com/linear/hls/event/4QRWTzDvStSNtf-DNNE34A/master.m3u8
 #EXTINF:-1 tvg-id="105712" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Sri-Lanka-tour-of-England-test-old-match-cardpsd.png" group-title="cricket",sri lanka vs england
 
-#EXTINF:-1 tvg-id="106692" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/106692_4385_BUL_EST_fc-web.jpg" group-title="cricket",bulgaria vs estonia
-https://dai.google.com/linear/hls/event/840fwgrEQyWRol-gCLIVtw/master.m3u8
-#EXTINF:-1 tvg-id="106691" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/106691_4385_CYP_GRE_fc-web.jpg" group-title="cricket",greece vs cyprus
-https://dai.google.com/linear/hls/event/GTqxPB3rS4CpvV7rqmmosw/master.m3u8
 #EXTINF:-1 tvg-id="106814" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/106814_4392_CEC-B_SZN_fc-web.jpg" group-title="cricket",ceccb vs seazen challengers
 https://dai.google.com/linear/hls/event/eRE-y1wYSyW8pwV-_VjT6w/master.m3u8
+#EXTINF:-1 tvg-id="106093" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Match-451_MLB_Old-Match-Card.jpg" group-title="baseball",new york yankees vs colorado rockies
+https://dai.google.com/linear/hls/event/v85eXgzXRhCjtVU_bOogqw/master.m3u8
 #EXTINF:-1 tvg-id="107933" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Volleyball-Beach-Pro-old-match-card-2.png" group-title="live-events",volleyball beach pro central court
 https://dai.google.com/linear/hls/event/vZIWq6kJR-uXJFa7t8hSGw/master.m3u8
