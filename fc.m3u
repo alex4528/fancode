@@ -1,5 +1,25 @@
-<html><head><title>500 Internal Server Error</title></head><body>
-<h2>Request Timeout</h2>
-<p>This request takes too long to process, it is timed out by the server. If it should not be timed out, please contact administrator of this web site to increase 'Connection Timeout'.
-</p>
-</body></html>
+#EXTM3U
+#EXTINF:-1 tvg-id="105712" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Sri-Lanka-tour-of-England-test-old-match-cardpsd.png" group-title="cricket",sri lanka vs england
+
+#EXTINF:-1 tvg-id="106726" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/106726_4386_GMY_MW_fc-web.jpg" group-title="cricket",mysore warriors vs gulbarga mystics
+https://dai.google.com/linear/hls/event/gLFIP5RhT9y3TeWYpdCsfA/master.m3u8
+#EXTINF:-1 tvg-id="107445" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/107445_4425_SRBW_MLT-W_fc-web.jpg" group-title="cricket",serbia women vs malta women
+https://dai.google.com/linear/hls/event/hvYyAqBgSkyTtuF6-5AYsA/master.m3u8
+#EXTINF:-1 tvg-id="106690" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/106690_4385_GSY_FIN_fc-web.jpg" group-title="cricket",finland vs guernsey
+https://dai.google.com/linear/hls/event/6Rt10i1nR7eA4R6NdH-P6g/master.m3u8
+#EXTINF:-1 tvg-id="107914" tvg-logo="https://images.fancode.com/aig/match/v1/107914_CASACARDS_APP.png" group-title="football",queens park rangers vs plymouth argyle
+https://dai.google.com/linear/hls/event/APrHwFMIQi25n_Aj-kRvMA/master.m3u8
+#EXTINF:-1 tvg-id="105701" tvg-logo="https://images.fancode.com/aig/match/v1/105701_CASACARDS_APP.png" group-title="football",gamba osaka vs avispa fukuoka
+https://dai.fancode.com/primary/105701_english_hls_8572adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-id="105703" tvg-logo="https://images.fancode.com/aig/match/v1/105703_CASACARDS_APP.png" group-title="football",yokohama f marinos vs cerezo osaka
+https://dai.fancode.com/primary/105703_english_hls_5070adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-id="107934" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Volleyball-Beach-Pro-old-match-card-2.png" group-title="live-events",volleyball beach pro court 2
+https://dai.google.com/linear/hls/event/KMmncFbhRNqALiFBgUcI0A/master.m3u8
+#EXTINF:-1 tvg-id="107933" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Volleyball-Beach-Pro-old-match-card-2.png" group-title="live-events",volleyball beach pro central court
+https://dai.google.com/linear/hls/event/vZIWq6kJR-uXJFa7t8hSGw/master.m3u8
+#EXTINF:-1 tvg-id="107615" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Danish-Golf-Championship_match-card.jpg" group-title="golf",day 3
+https://dai.google.com/linear/hls/event/mtvvWa0cTMGq74xu-Pttag/master.m3u8
+#EXTINF:-1 tvg-id="107270" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Netherlands_GP_Supercup_Match_card_MRF_Old_match-card.jpg" group-title="motorsports",qualifying zandvoort
+https://dai.google.com/linear/hls/event/jI6uzoYdRpSWOnBhOptctw/master.m3u8
+#EXTINF:-1 tvg-id="107478" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Meltl_Shield_Europe_2024_Old_match-card_02.jpg" group-title="cricket",british and irish roses vs team europew
+https://dai.google.com/linear/hls/event/copmKZxFT4aQPVwitq38Sw/master.m3u8
