@@ -1,36 +1,21 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="95210" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/F1-HEINEKEN-DUTCH-GRAND-PRIX-2024-old-match-card-1.png" group-title="formula-1",qualifying
+https://dai.google.com/linear/hls/event/b00n2oJtRI2y_cRssdplvw/master.m3u8
+#EXTINF:-1 tvg-id="105712" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Sri-Lanka-tour-of-England-test-old-match-cardpsd.png" group-title="cricket",sri lanka vs england
 
-<!doctype html>
-<html lang="en">
-<head>
-    <meta charset="utf-8">
-    <meta name="robots" content="noindex, nofollow">
-    <title>One moment, please...</title>
-    <style>
-    body {
-        background: #F6F7F8;
-        color: #303131;
-        font-family: sans-serif;
-        margin-top: 45vh;
-        text-align: center;
-    }
-    </style>
-    </head>
-<body>
-    <h1>Please wait while your request is being verified...</h1>
-    <form id="wsidchk-form" style="display:none;" action="/z0f76a1d14fd21a8fb5fd0d03e0fdc3d3cedae52f" method="GET">
-    <input type="hidden" id="wsidchk" name="wsidchk"/>
-    </form>
-    <script>
-    (function(){
-        var west=+((+!+[]+!![]+!![])+(+!+[]+!![]+!![]+!![]+[])+(+!+[]+!![]+!![])+(+!+[]+!![]+[])+(+!+[]+!![]+!![]+!![]+!![])+(+!+[]+!![]+[])+(+!+[]+!![]+!![]+!![]+!![]+!![]+!![])),
-            east=+((+!+[])+(+!+[]+!![]+!![]+!![]+!![]+[])+(+!+[]+!![]+!![]+!![]+!![])+(+!+[]+!![]+!![]+!![]+!![]+!![]+!![]+!![]+[])+(+![])+(+!+[]+[])+(+!+[]+!![]+!![]+!![]+!![]+!![]+!![]+!![]+!![])+(+!+[]+!![]+!![]+[])),
-            x=function(){try{return !!window.addEventListener;}catch(e){return !!0;} },
-            y=function(y,z){x() ? document.addEventListener('DOMContentLoaded',y,z) : document.attachEvent('onreadystatechange',y);};
-        y(function(){
-            document.getElementById('wsidchk').value = west + east;
-            document.getElementById('wsidchk-form').submit();
-        }, false);
-    })();
-    </script>
-</body>
-</html>
+#EXTINF:-1 tvg-id="106727" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/106727_4386_SL_HT_fc-web.jpg" group-title="cricket",hubli tigers vs shivamogga lions
+https://dai.google.com/linear/hls/event/FP_5e59YQrSh-zpgiVIhlw/master.m3u8
+#EXTINF:-1 tvg-id="106690" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/106690_4385_GSY_FIN_fc-web.jpg" group-title="cricket",finland vs guernsey
+https://dai.google.com/linear/hls/event/6Rt10i1nR7eA4R6NdH-P6g/master.m3u8
+#EXTINF:-1 tvg-id="107446" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/107446_4425_GREW_IM-W_fc-web.jpg" group-title="cricket",isle of man women vs greece women
+https://dai.google.com/linear/hls/event/pIko0If4TYapO5bBV3YhtA/master.m3u8
+#EXTINF:-1 tvg-id="107934" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Volleyball-Beach-Pro-old-match-card-2.png" group-title="live-events",volleyball beach pro court 2
+https://dai.google.com/linear/hls/event/KMmncFbhRNqALiFBgUcI0A/master.m3u8
+#EXTINF:-1 tvg-id="107933" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Volleyball-Beach-Pro-old-match-card-2.png" group-title="live-events",volleyball beach pro central court
+https://dai.google.com/linear/hls/event/vZIWq6kJR-uXJFa7t8hSGw/master.m3u8
+#EXTINF:-1 tvg-id="107615" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Danish-Golf-Championship_match-card.jpg" group-title="golf",day 3
+https://dai.google.com/linear/hls/event/mtvvWa0cTMGq74xu-Pttag/master.m3u8
+#EXTINF:-1 tvg-id="107479" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Meltl_Shield_Europe_2024_Old_match-card_01.jpg" group-title="cricket",team europew vs british and irish roses
+https://dai.google.com/linear/hls/event/yrW_a5plQBOkrCWaHSc9ZA/master.m3u8
+#EXTINF:-1 tvg-id="107914" tvg-logo="https://images.fancode.com/aig/match/v1/107914_CASACARDS_APP.png" group-title="football",queens park rangers vs plymouth argyle
+https://dai.google.com/linear/hls/event/APrHwFMIQi25n_Aj-kRvMA/master.m3u8
