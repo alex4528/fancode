@@ -1,17 +1,5 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="95211" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/F1-HEINEKEN-DUTCH-GRAND-PRIX-2024-old-match-card-1.png" group-title="formula-1",race
-https://dai.google.com/linear/hls/event/zregAwIMRW6-FodL-l8qbQ/master.m3u8
-#EXTINF:-1 tvg-id="106728" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/106728_4386_BB_MW_fc-web.jpg" group-title="cricket",kalyani bengaluru blasters vs mysore warriors
-https://dai.google.com/linear/hls/event/fRW0zYSBTEu7zp2q3wXxFQ/master.m3u8
-#EXTINF:-1 tvg-id="107448" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/107448_4425_MCC-W_SRBW_fc-web.jpg" group-title="cricket",serbia women vs mcc women
-https://dai.google.com/linear/hls/event/FPDMXvtGRQSQF6KHS9abdg/master.m3u8
-#EXTINF:-1 tvg-id="106694" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/106694_4385_BUL_MAL_fc-web.jpg" group-title="cricket",malta vs bulgaria
-https://dai.google.com/linear/hls/event/IbzG2wxRRhOJ07J2cYl52w/master.m3u8
-#EXTINF:-1 tvg-id="106693" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/106693_4385_CYP_CZE_fc-web.jpg" group-title="cricket",cyprus vs czechia
-https://dai.google.com/linear/hls/event/yvstzyMBTyCfZmB922bUdQ/master.m3u8
-#EXTINF:-1 tvg-id="105704" tvg-logo="https://images.fancode.com/aig/match/v1/105704_CASACARDS_APP.png" group-title="football",jbilo iwata vs consadole sapporo
-https://dai.fancode.com/primary/105704_english_hls_7875adfreeta-di/index.m3u8
-#EXTINF:-1 tvg-id="107955" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Volleyball-Beach-Pro-old-match-card-2.png" group-title="live-events",volleyball beach pro central court
-https://dai.google.com/linear/hls/event/WOSiCo1pR7mz56NgkMlpbw/master.m3u8
-#EXTINF:-1 tvg-id="107616" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Danish-Golf-Championship_match-card.jpg" group-title="golf",day 4
-https://dai.google.com/linear/hls/event/DQA1L-49QPCXTH4p-uuW-w/master.m3u8
+<html><head><title>500 Internal Server Error</title></head><body>
+<h2>Request Timeout</h2>
+<p>This request takes too long to process, it is timed out by the server. If it should not be timed out, please contact administrator of this web site to increase 'Connection Timeout'.
+</p>
+</body></html>
