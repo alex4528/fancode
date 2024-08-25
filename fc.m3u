@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="106935" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/106935_4394_BDM_SGC_fc-web_1723446935392.jpg" group-title="cricket",bdmtcc vs sath gaon club
+https://dai.google.com/linear/hls/event/wKLDqgpYQzS2h0bAB--tnw/master.m3u8
 #EXTINF:-1 tvg-id="106095" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Match-453_MLB_Old-Match-Card.jpg" group-title="baseball",los angeles dodgers vs tampa bay rays
 https://dai.google.com/linear/hls/event/_RjbPA-WTiqF1Ao_jPWCDQ/master.m3u8
 #EXTINF:-1 tvg-id="106653" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Kuwait-vs-Malaysia-old.png" group-title="cricket",kuwait vs malaysia
