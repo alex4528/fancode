@@ -1,7 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="106935" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/106935_4394_BDM_SGC_fc-web_1723446935392.jpg" group-title="cricket",bdmtcc vs sath gaon club
 https://dai.google.com/linear/hls/event/wKLDqgpYQzS2h0bAB--tnw/master.m3u8
-#EXTINF:-1 tvg-id="107563" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/J-BASH-All-Stars-old-match-card.png" group-title="cricket",pelicans women vs pandas women
-https://dai.google.com/linear/hls/event/V0TE1GieQ4q6LA9Xp4q2Yg/master.m3u8
 #EXTINF:-1 tvg-id="106653" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Kuwait-vs-Malaysia-old.png" group-title="cricket",kuwait vs malaysia
 https://dai.google.com/linear/hls/event/yOoz0nnNSh6qo9U98-Ax8A/master.m3u8
