@@ -1,5 +1,13 @@
-<html><head><title>500 Internal Server Error</title></head><body>
-<h2>Request Timeout</h2>
-<p>This request takes too long to process, it is timed out by the server. If it should not be timed out, please contact administrator of this web site to increase 'Connection Timeout'.
-</p>
-</body></html>
+#EXTM3U
+#EXTINF:-1 tvg-id="107447" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/107447_4425_SRBW_GREW_fc-web.jpg" group-title="cricket",greece women vs serbia women
+https://dai.google.com/linear/hls/event/WRdzhmS0T4yvQ8MhW2fH4w/master.m3u8
+#EXTINF:-1 tvg-id="106936" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/106936_4394_AC_NYC_fc-web_1723446935061.jpg" group-title="cricket",91 yards club vs ankurjyoti club
+https://dai.google.com/linear/hls/event/l-bK1SEJQESPR0bj-FmkLw/master.m3u8
+#EXTINF:-1 tvg-id="107955" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Volleyball-Beach-Pro-old-match-card-2.png" group-title="live-events",volleyball beach pro tour
+https://dai.google.com/linear/hls/event/WOSiCo1pR7mz56NgkMlpbw/master.m3u8
+#EXTINF:-1 tvg-id="107481" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Meltl_Shield_Europe_2024_Old_match-card_01.jpg" group-title="cricket",team europew vs british and irish roses
+https://dai.google.com/linear/hls/event/-1d33KDOT3CBW8pVswn4FQ/master.m3u8
+#EXTINF:-1 tvg-id="107258" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Indian-Racing-Festival_old.jpg" group-title="motorsports",round 1 day 2
+https://dai.google.com/linear/hls/event/COofwlHTQiO-BLcTC6_Jag/master.m3u8
+#EXTINF:-1 tvg-id="107255" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/03/F1_Academy_Saudi_Old_match-card.jpg" group-title="motorsports",race 2
+https://dai.google.com/linear/hls/event/H8DUdAAWSmSDjaI0BMFoow/master.m3u8
