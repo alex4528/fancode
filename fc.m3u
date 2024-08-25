@@ -1,11 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="107088" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Max-60-old-final.jpg" group-title="cricket",caribbean tigers vs new york strikers
-https://dai.google.com/linear/hls/event/BAlb5LvtQoSfmBf7zWfQog/master.m3u8
 #EXTINF:-1 tvg-id="106816" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/106816_4392_FRB_AFG-XI_fc-web.jpg" group-title="cricket",friendi mobile vs afghan xi
 https://dai.google.com/linear/hls/event/F2e83b-mT7iFFdj8caB3lg/master.m3u8
 #EXTINF:-1 tvg-id="106096" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Match-454_MLB_Old-Match-Card.jpg" group-title="baseball",atlanta braves vs washington nationals
 https://dai.google.com/linear/hls/event/42PTu9myTdKMohRIDIqCgw/master.m3u8
 #EXTINF:-1 tvg-id="106097" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Match-455_MLB_Old-Match-Card.jpg" group-title="baseball",minnesota twins vs st louis cardinals
 https://dai.google.com/linear/hls/event/1MZjEX8oTE6VC69S7HyK7w/master.m3u8
-#EXTINF:-1 tvg-id="107955" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Volleyball-Beach-Pro-old-match-card-2.png" group-title="live-events",volleyball beach pro central court
-https://dai.google.com/linear/hls/event/WOSiCo1pR7mz56NgkMlpbw/master.m3u8
+#EXTINF:-1 tvg-id="107088" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Max-60-old-final.jpg" group-title="cricket",caribbean tigers vs new york strikers
+https://dai.google.com/linear/hls/event/BAlb5LvtQoSfmBf7zWfQog/master.m3u8
