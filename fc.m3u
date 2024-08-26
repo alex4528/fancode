@@ -1,5 +1,9 @@
-<html><head><title>500 Internal Server Error</title></head><body>
-<h2>Request Timeout</h2>
-<p>This request takes too long to process, it is timed out by the server. If it should not be timed out, please contact administrator of this web site to increase 'Connection Timeout'.
-</p>
-</body></html>
+#EXTM3U
+#EXTINF:-1 tvg-id="106730" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/106730_4386_MD_HT_fc-web.jpg" group-title="cricket",hubli tigers vs mangaluru dragons
+https://dai.google.com/linear/hls/event/KGKKXJj-SoSfzly4Y9fJeA/master.m3u8
+#EXTINF:-1 tvg-id="107973" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/4394_BCC_CCC_fc-web.jpg" group-title="cricket",bud cricket club vs city cricket club
+https://dai.google.com/linear/hls/event/xNZAsdVTQtGjZotdy8gpXg/master.m3u8
+#EXTINF:-1 tvg-id="107504" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/107504_4430_SNA_VID_fc-Web.jpg" group-title="cricket",snasy vs vienna danube
+https://dai.google.com/linear/hls/event/KM7fFAEBTrSPYcq1V0mXbw/master.m3u8
+#EXTINF:-1 tvg-id="99033" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/04/25th-AUG_Western-Storm-vs-Central-Sparks_OLD_Match-Card.jpg" group-title="cricket",central sparks vs western storm
+https://dai.google.com/linear/hls/event/s3cNUnW6T1OyEBnDbrlTtQ/master.m3u8
