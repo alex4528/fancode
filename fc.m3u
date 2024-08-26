@@ -1,5 +1,5 @@
-<html><head><title>500 Internal Server Error</title></head><body>
-<h2>Request Timeout</h2>
-<p>This request takes too long to process, it is timed out by the server. If it should not be timed out, please contact administrator of this web site to increase 'Connection Timeout'.
-</p>
-</body></html>
+#EXTM3U
+#EXTINF:-1 tvg-id="106660" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/WCPL_Old_Match-5.png" group-title="cricket",barbados royals women vs guyana amazon warriors women
+https://dai.google.com/linear/hls/event/3srpsBXiTzq9kr1Kkb3Hvw/master.m3u8
+#EXTINF:-1 tvg-id="106016" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Match-458_MLB_Old-Match-Card.jpg" group-title="baseball",boston red sox vs toronto blue jays
+https://dai.google.com/linear/hls/event/tl_4UbqsTn6T0xtJ4jFylw/master.m3u8
