@@ -1,5 +1,5 @@
-<html><head><title>500 Internal Server Error</title></head><body>
-<h2>Request Timeout</h2>
-<p>This request takes too long to process, it is timed out by the server. If it should not be timed out, please contact administrator of this web site to increase 'Connection Timeout'.
-</p>
-</body></html>
+#EXTM3U
+#EXTINF:-1 tvg-id="106731" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/106731_4386_BB_GMY_fc-web.jpg" group-title="cricket",bengaluru blasters vs gulbarga mystics
+https://dai.google.com/linear/hls/event/7EGCdLkGQySDiL9_Cze8eQ/master.m3u8
+#EXTINF:-1 tvg-id="107507" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/107507_4430_VCC_VID_fc-Web.jpg" group-title="cricket",vienna danube vs vienna cc
+https://dai.google.com/linear/hls/event/RGjum9CeQdKLFchDC9DfUg/master.m3u8
