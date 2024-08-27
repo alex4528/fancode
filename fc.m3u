@@ -1,5 +1,9 @@
-<html><head><title>500 Internal Server Error</title></head><body>
-<h2>Request Timeout</h2>
-<p>This request takes too long to process, it is timed out by the server. If it should not be timed out, please contact administrator of this web site to increase 'Connection Timeout'.
-</p>
-</body></html>
+#EXTM3U
+#EXTINF:-1 tvg-id="106732" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/106732_4386_GMY_SL_fc-web.jpg" group-title="cricket",gulbarga mystics vs shivamogga lions
+https://dai.google.com/linear/hls/event/zsAWcTdFTDe_JwgNvShl-Q/master.m3u8
+#EXTINF:-1 tvg-id="107509" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/107509_4430_CCC_ADD_fc-Web.jpg" group-title="cricket",cricketer cc vs austrian daredevils
+https://dai.google.com/linear/hls/event/FWF4TnGnRUC2jIvn3wgM6g/master.m3u8
+#EXTINF:-1 tvg-id="106698" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/106698_4385_FIN_BUL_fc-web.jpg" group-title="cricket",finland vs bulgaria
+https://dai.google.com/linear/hls/event/EQl4TQoGR_uQONPRgLZ6CQ/master.m3u8
+#EXTINF:-1 tvg-id="106697" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/106697_4385_DEN_CYP_fc-web.jpg" group-title="cricket",denmark vs cyprus
+https://dai.google.com/linear/hls/event/3VTvPdZ0T1CcAAC5141bAQ/master.m3u8
