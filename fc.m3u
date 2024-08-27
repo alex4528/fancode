@@ -5,3 +5,7 @@ https://dai.google.com/linear/hls/event/OBXpqS3tRomnQULhVvYiog/master.m3u8
 https://dai.google.com/linear/hls/event/VYJhoPwATnGaQp6vqUMQvA/master.m3u8
 #EXTINF:-1 tvg-id="107511" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/107511_4430_DST_ADD_fc-Web.jpg" group-title="cricket",austrian daredevils vs donaustadt
 https://dai.google.com/linear/hls/event/PaoiN47OStexQd2GvLzQjQ/master.m3u8
+#EXTINF:-1 tvg-id="106700" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/106700_4385_MAL_EST_fc-web.jpg" group-title="cricket",malta vs estonia
+https://dai.google.com/linear/hls/event/-XJPOPv6Q66xwtTT_bZ3EA/master.m3u8
+#EXTINF:-1 tvg-id="106699" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/106699_4385_CZE_GRE_fc-web.jpg" group-title="cricket",czechia vs greece
+https://dai.google.com/linear/hls/event/StPtvam6TMixNoz_ry-JaA/master.m3u8
