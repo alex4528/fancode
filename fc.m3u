@@ -1,7 +1,3 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="102210" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/South-Africa-vs-West-indies_T20_V1_old.jpg" group-title="cricket",south africa vs west indies
 https://dai.google.com/linear/hls/event/IpyPl9vpSxiu8rqfzah5jg/master.m3u8
-#EXTINF:-1 tvg-id="107962" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/birmingham-city-vs-Fulham_old.jpg" group-title="football",birmingham city vs fulham
-https://dai.google.com/linear/hls/event/FABpWqyXQtWFgVnKHQu9eg/master.m3u8
-#EXTINF:-1 tvg-id="108007" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Crystal-Palace-vs-Norwich_old.jpg" group-title="football",crystal palace vs norwich city
-https://dai.google.com/linear/hls/event/LERw4racQaOw1sejBt_v2A/master.m3u8
