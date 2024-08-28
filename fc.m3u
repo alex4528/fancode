@@ -1,5 +1,13 @@
-<html><head><title>500 Internal Server Error</title></head><body>
-<h2>Request Timeout</h2>
-<p>This request takes too long to process, it is timed out by the server. If it should not be timed out, please contact administrator of this web site to increase 'Connection Timeout'.
-</p>
-</body></html>
+#EXTM3U
+#EXTINF:-1 tvg-id="106734" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/106734_4386_MD_MW_fc-web.jpg" group-title="cricket",mangaluru dragons vs mysore warriors
+https://dai.google.com/linear/hls/event/WXLRGUhWQsGtIk3Hs96Qjw/master.m3u8
+#EXTINF:-1 tvg-id="106702" tvg-logo="https://images.fancode.com/aig/match/v1/106702_CASACARDS_APP.png" group-title="cricket",spain vs finland
+https://dai.google.com/linear/hls/event/x8qBI54lRa-2z1BvGPvwJg/master.m3u8
+#EXTINF:-1 tvg-id="106701" tvg-logo="https://images.fancode.com/aig/match/v1/106701_CASACARDS_APP.png" group-title="cricket",cyprus vs malta
+https://dai.google.com/linear/hls/event/vi-0mCuyQci8HtPYCQBdRw/master.m3u8
+#EXTINF:-1 tvg-id="107515" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/107515_4430_VID_SEP_fc-Web.jpg" group-title="cricket",vienna danube vs shere punjab vienna
+https://dai.google.com/linear/hls/event/3FjZHJUXQtWFhelNPNBp7g/master.m3u8
+#EXTINF:-1 tvg-id="108194" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Man_city_Leicester_City_Perth_International-Football_Cup_Old_MC.jpg" group-title="football",manchester city women vs leicester city women
+https://dai.fancode.com/primary/108194_english_hls_5617adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-id="107435" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Match-3-Netherlands-vs-USA-1.png" group-title="cricket",netherlands vs usa
+https://dai.google.com/linear/hls/event/Vvq5I7MSSXWr_y2ltVvD3Q/master.m3u8
