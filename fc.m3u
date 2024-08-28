@@ -1,5 +1,11 @@
-<html><head><title>500 Internal Server Error</title></head><body>
-<h2>Request Timeout</h2>
-<p>This request takes too long to process, it is timed out by the server. If it should not be timed out, please contact administrator of this web site to increase 'Connection Timeout'.
-</p>
-</body></html>
+#EXTM3U
+#EXTINF:-1 tvg-id="106735" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/106735_4386_BB_SL_fc-web.jpg" group-title="cricket",shivamogga lions vs kalyani bengaluru blasters
+https://dai.google.com/linear/hls/event/zSO59SXlQk2bPERM0qZKig/master.m3u8
+#EXTINF:-1 tvg-id="106704" tvg-logo="https://images.fancode.com/aig/match/v1/106704_CASACARDS_APP.png" group-title="cricket",denmark vs guernsey
+https://dai.google.com/linear/hls/event/W8rJAgg6TIGAZkC93tej3A/master.m3u8
+#EXTINF:-1 tvg-id="106703" tvg-logo="https://images.fancode.com/aig/match/v1/106703_CASACARDS_APP.png" group-title="cricket",czechia vs estonia
+https://dai.google.com/linear/hls/event/KgI_r-ztRNy3UtAk4X4DdQ/master.m3u8
+#EXTINF:-1 tvg-id="106822" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/106822_4392_IQS_SZN_fc-web.jpg" group-title="cricket",seazen challengers vs ishaq xi
+https://dai.google.com/linear/hls/event/6f66_5-KTFivognl4Y_u3w/master.m3u8
+#EXTINF:-1 tvg-id="106103" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Match-462_MLB_Old-Match-Card.jpg" group-title="baseball",pittsburgh pirates vs chicago cubs
+https://dai.google.com/linear/hls/event/8fF9FnuTT0uoqql5VYUcAw/master.m3u8
