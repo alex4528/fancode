@@ -1,36 +1,11 @@
-
-<!doctype html>
-<html lang="en">
-<head>
-    <meta charset="utf-8">
-    <meta name="robots" content="noindex, nofollow">
-    <title>One moment, please...</title>
-    <style>
-    body {
-        background: #F6F7F8;
-        color: #303131;
-        font-family: sans-serif;
-        margin-top: 45vh;
-        text-align: center;
-    }
-    </style>
-    </head>
-<body>
-    <h1>Please wait while your request is being verified...</h1>
-    <form id="wsidchk-form" style="display:none;" action="/z0f76a1d14fd21a8fb5fd0d03e0fdc3d3cedae52f" method="GET">
-    <input type="hidden" id="wsidchk" name="wsidchk"/>
-    </form>
-    <script>
-    (function(){
-        var west=+((+!+[]+!![]+!![]+!![])+(+!+[]+!![]+!![]+[])+(+!+[]+!![])+(+!+[]+!![]+[])+(+!+[]+!![]+!![]+!![]+!![])+(+!+[]+!![]+!![]+!![]+!![]+!![]+!![]+!![]+!![]+[])+(+!+[]+!![]+!![]+!![])),
-            east=+((+!+[])+(+!+[]+!![]+!![]+[])+(+!+[]+!![]+!![]+!![]+!![]+!![]+!![]+!![]+!![])+(+!+[]+!![]+!![]+!![]+!![]+!![]+!![]+!![]+[])+(+!+[]+!![]+!![])+(+![]+[])+(+!+[]+!![]+!![]+!![]+!![]+!![]+!![]+!![]+!![])+(+!+[]+!![]+[])),
-            x=function(){try{return !!window.addEventListener;}catch(e){return !!0;} },
-            y=function(y,z){x() ? document.addEventListener('DOMContentLoaded',y,z) : document.attachEvent('onreadystatechange',y);};
-        y(function(){
-            document.getElementById('wsidchk').value = west + east;
-            document.getElementById('wsidchk-form').submit();
-        }, false);
-    })();
-    </script>
-</body>
-</html>
+#EXTM3U
+#EXTINF:-1 tvg-id="106825" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/106825_4392_KRM_KMW_fc-web.jpg" group-title="cricket",kuwait mavericks vs krm panthers
+https://dai.google.com/linear/hls/event/VihoUP5QR869fvU9s8hN5A/master.m3u8
+#EXTINF:-1 tvg-id="107965" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Wolverhampton-Wanderers-vs-Barnsley_OLD.jpg" group-title="football",wolverhampton wanderers vs burnley
+https://dai.google.com/linear/hls/event/QT5cn0erSEGRIdzA0iGJyw/master.m3u8
+#EXTINF:-1 tvg-id="107964" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/West-Ham-vs-Bournemouth_OLD.jpg" group-title="football",west ham united vs bournemouth
+https://dai.google.com/linear/hls/event/qMVkiOppSBClqCbBFjGgcg/master.m3u8
+#EXTINF:-1 tvg-id="107963" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Nottingham-vs-Newcastle_old.jpg" group-title="football",nottingham forest vs newcastle united
+https://dai.google.com/linear/hls/event/3OAR8dBqRS-9fSjFxOm6RQ/master.m3u8
+#EXTINF:-1 tvg-id="106103" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Match-462_MLB_Old-Match-Card.jpg" group-title="baseball",pittsburgh pirates vs chicago cubs
+https://dai.google.com/linear/hls/event/8fF9FnuTT0uoqql5VYUcAw/master.m3u8
