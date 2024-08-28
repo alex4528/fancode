@@ -7,3 +7,5 @@ https://dai.google.com/linear/hls/event/WXLRGUhWQsGtIk3Hs96Qjw/master.m3u8
 https://dai.google.com/linear/hls/event/x8qBI54lRa-2z1BvGPvwJg/master.m3u8
 #EXTINF:-1 tvg-id="106701" tvg-logo="https://images.fancode.com/aig/match/v1/106701_CASACARDS_APP.png" group-title="cricket",cyprus vs malta
 https://dai.google.com/linear/hls/event/vi-0mCuyQci8HtPYCQBdRw/master.m3u8
+#EXTINF:-1 tvg-id="108194" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Man_city_Leicester_City_Perth_International-Football_Cup_Old_MC.jpg" group-title="football",manchester city women vs leicester city women
+https://dai.fancode.com/primary/108194_english_hls_5617adfreeta-di/index.m3u8
