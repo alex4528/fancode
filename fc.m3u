@@ -1,5 +1,3 @@
-<html><head><title>500 Internal Server Error</title></head><body>
-<h2>Request Timeout</h2>
-<p>This request takes too long to process, it is timed out by the server. If it should not be timed out, please contact administrator of this web site to increase 'Connection Timeout'.
-</p>
-</body></html>
+#EXTM3U
+#EXTINF:-1 tvg-id="106104" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Match-463_MLB_Old-Match-Card.jpg" group-title="baseball",philadelphia phillies vs houston astros
+https://dai.google.com/linear/hls/event/pcUzCneyRvmDelYQLIPKwA/master.m3u8
