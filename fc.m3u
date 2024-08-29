@@ -1,5 +1,9 @@
-<html><head><title>500 Internal Server Error</title></head><body>
-<h2>Request Timeout</h2>
-<p>This request takes too long to process, it is timed out by the server. If it should not be timed out, please contact administrator of this web site to increase 'Connection Timeout'.
-</p>
-</body></html>
+#EXTM3U
+#EXTINF:-1 tvg-id="106736" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/106736_4386_BB_MD_fc-web.jpg" group-title="cricket",kalyani bengaluru blasters vs mangaluru dragons
+https://dai.google.com/linear/hls/event/Wbi_J4erTlKYptnxqBktPg/master.m3u8
+#EXTINF:-1 tvg-id="107519" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/107519_4430_SEP_ICCV_fc-Web.jpg" group-title="cricket",indian cc vienna vs shere punjab vienna
+https://dai.google.com/linear/hls/event/wUpWxZ6oTlmmqQWNK5ZwZg/master.m3u8
+#EXTINF:-1 tvg-id="100475" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/05/Ireland-Inter-Provincial-OD-Trophy_old_01.jpg" group-title="cricket",north west warriors vs leinster lightning
+https://dai.google.com/linear/hls/event/1EvQWAVzT7efP6Q9qIz0pg/master.m3u8
+#EXTINF:-1 tvg-id="108257" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/LLC_Auction_match-card.jpg" group-title="live-events",auction
+https://dai.google.com/linear/hls/event/1IWomWCYT7KmRuE0aVoj7A/master.m3u8
