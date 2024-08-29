@@ -1,5 +1,9 @@
-<html><head><title>500 Internal Server Error</title></head><body>
-<h2>Request Timeout</h2>
-<p>This request takes too long to process, it is timed out by the server. If it should not be timed out, please contact administrator of this web site to increase 'Connection Timeout'.
-</p>
-</body></html>
+#EXTM3U
+#EXTINF:-1 tvg-id="106662" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/WCPL-Old-finak.png" group-title="cricket",trinbago knight riders women vs barbados royals women
+https://dai.google.com/linear/hls/event/TKuspNimTB-duXvPh4ORHA/master.m3u8
+#EXTINF:-1 tvg-id="106826" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/106826_4392_AMB_FRB_fc-web.jpg" group-title="cricket",friendi mobile vs al mulla exchange b
+https://dai.google.com/linear/hls/event/1W-Rx3fETXyqwf6qL1QaKw/master.m3u8
+#EXTINF:-1 tvg-id="106106" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Match-465_MLB_Old-Match-Card.jpg" group-title="baseball",detroit tigers vs los angeles angels
+https://dai.google.com/linear/hls/event/x7swZ2J2QtiF0vsEjgCR-Q/master.m3u8
+#EXTINF:-1 tvg-id="106107" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Match-466_MLB_Old-Match-Card.jpg" group-title="baseball",colorado rockies vs miami marlins
+https://dai.google.com/linear/hls/event/suAasFvkR0GfTzBPHSP2_g/master.m3u8
