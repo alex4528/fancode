@@ -1,5 +1,11 @@
-<html><head><title>500 Internal Server Error</title></head><body>
-<h2>Request Timeout</h2>
-<p>This request takes too long to process, it is timed out by the server. If it should not be timed out, please contact administrator of this web site to increase 'Connection Timeout'.
-</p>
-</body></html>
+#EXTM3U
+#EXTINF:-1 tvg-id="105713" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Sri-Lanka-tour-of-England-test-old-match-cardpsd.png" group-title="cricket",england vs sri lanka
+
+#EXTINF:-1 tvg-id="100475" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/05/Ireland-Inter-Provincial-OD-Trophy_old_01.jpg" group-title="cricket",north west warriors vs leinster lightning
+https://dai.google.com/linear/hls/event/1EvQWAVzT7efP6Q9qIz0pg/master.m3u8
+#EXTINF:-1 tvg-id="107520" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/107520_4430_SEP_DST_fc-Web.jpg" group-title="cricket",donaustadt vs shere punjab vienna
+https://dai.google.com/linear/hls/event/woZAlrLTRtqXvSMqWo4PhA/master.m3u8
+#EXTINF:-1 tvg-id="108257" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/LLC_Auction_match-card.jpg" group-title="live-events",auction
+https://dai.google.com/linear/hls/event/1IWomWCYT7KmRuE0aVoj7A/master.m3u8
+#EXTINF:-1 tvg-id="107626" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Betfred-British-Masters-Old.png" group-title="golf",day 1
+https://dai.google.com/linear/hls/event/3AwrHAX3QwSgUf8LqfZX-Q/master.m3u8
