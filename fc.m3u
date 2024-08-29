@@ -11,3 +11,5 @@ https://dai.google.com/linear/hls/event/woZAlrLTRtqXvSMqWo4PhA/master.m3u8
 https://dai.fancode.com/primary/108195_english_hls_4726adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-id="108257" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/LLC_Auction_match-card.jpg" group-title="live-events",auction
 https://dai.google.com/linear/hls/event/1IWomWCYT7KmRuE0aVoj7A/master.m3u8
+#EXTINF:-1 tvg-id="107626" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Betfred-British-Masters-Old.png" group-title="golf",day 1
+https://dai.google.com/linear/hls/event/3AwrHAX3QwSgUf8LqfZX-Q/master.m3u8
