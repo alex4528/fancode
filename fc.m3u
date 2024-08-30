@@ -1,5 +1,3 @@
-<html><head><title>500 Internal Server Error</title></head><body>
-<h2>Request Timeout</h2>
-<p>This request takes too long to process, it is timed out by the server. If it should not be timed out, please contact administrator of this web site to increase 'Connection Timeout'.
-</p>
-</body></html>
+#EXTM3U
+#EXTINF:-1 tvg-id="107784" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Minor-League-Cricket-old-match-card-3.png" group-title="cricket",manhattan yorkers vs new jersey somerset cavaliers
+https://dai.google.com/linear/hls/event/3tNZBzAsQ8udZW0sfJ0zZw/master.m3u8
