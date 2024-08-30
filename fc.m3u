@@ -1,17 +1,5 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="105713" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Sri-Lanka-tour-of-England-test-old-match-cardpsd.png" group-title="cricket",england vs sri lanka
-
-#EXTINF:-1 tvg-id="106705" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/106731_4386_BB_GMY_fc-web.jpg" group-title="cricket",gulbarga mystics vs kalyani bengaluru blasters
-https://dai.google.com/linear/hls/event/mijAbakyQhuTeMFDjtq8Jg/master.m3u8
-#EXTINF:-1 tvg-id="107527" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/107527_4430_GCA_VCC_fc-Web.jpg" group-title="cricket",vienna cc vs graz cricket academy
-
-#EXTINF:-1 tvg-id="106827" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/106827_4392_SZN_KMW_fc-web.jpg" group-title="cricket",kuwait mavericks vs seazen challengers
-https://dai.google.com/linear/hls/event/WP45hnRZQOCEfT6--7R0Qw/master.m3u8
-#EXTINF:-1 tvg-id="108008" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Match-468_MLB_Old-Match-Card.jpg" group-title="baseball",cincinnati reds vs milwaukee brewers
-https://dai.google.com/linear/hls/event/Y3RzulQHSV2TJO-BcuWWmA/master.m3u8
-#EXTINF:-1 tvg-id="107627" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Betfred-British-Masters-Old.png" group-title="golf",day 2
-https://dai.google.com/linear/hls/event/Nx8xdlNZRpCYYCSCsbWRmg/master.m3u8
-#EXTINF:-1 tvg-id="107975" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/KPMG-Womens-Irish-Open_Golf_Old-Match-Card1.jpg" group-title="golf",day 2
-https://dai.google.com/linear/hls/event/D9-DT0MOQciOUmSutG_ErA/master.m3u8
-#EXTINF:-1 tvg-id="108098" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Porsche-Mobil-1-Supercup_monza_Match_card_MRF_Old_match-card.jpg" group-title="motorsports",practice session
-
+<html><head><title>500 Internal Server Error</title></head><body>
+<h2>Request Timeout</h2>
+<p>This request takes too long to process, it is timed out by the server. If it should not be timed out, please contact administrator of this web site to increase 'Connection Timeout'.
+</p>
+</body></html>
