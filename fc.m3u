@@ -1,11 +1,5 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="105713" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Sri-Lanka-tour-of-England-test-old-match-cardpsd.png" group-title="cricket",england vs sri lanka
-
-#EXTINF:-1 tvg-id="106705" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/106731_4386_BB_GMY_fc-web.jpg" group-title="cricket",kalyani bengaluru blasters vs gulbarga mystics
-https://dai.google.com/linear/hls/event/mijAbakyQhuTeMFDjtq8Jg/master.m3u8
-#EXTINF:-1 tvg-id="107526" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/107526_4430_ADD_VCC_fc-Web.jpg" group-title="cricket",vienna cc vs austrian daredevils
-https://dai.google.com/linear/hls/event/PPaK4hueQMChdGqP5szxwQ/master.m3u8
-#EXTINF:-1 tvg-id="107627" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Betfred-British-Masters-Old.png" group-title="golf",day 2
-https://dai.google.com/linear/hls/event/Nx8xdlNZRpCYYCSCsbWRmg/master.m3u8
-#EXTINF:-1 tvg-id="95412" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/05/Formula3_Old_match-card.jpg" group-title="motorsports",qualifying
-
+<html><head><title>500 Internal Server Error</title></head><body>
+<h2>Request Timeout</h2>
+<p>This request takes too long to process, it is timed out by the server. If it should not be timed out, please contact administrator of this web site to increase 'Connection Timeout'.
+</p>
+</body></html>
