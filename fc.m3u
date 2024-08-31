@@ -1,11 +1,5 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="95214" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/F1_Italy_Monza_Old_match-card.jpg" group-title="formula-1",practice 3
-
-#EXTINF:-1 tvg-id="105713" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Sri-Lanka-tour-of-England-test-old-match-cardpsd.png" group-title="cricket",england vs sri lanka
-
-#EXTINF:-1 tvg-id="107530" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/107530_4430_GCA_DST_fc-Web.jpg" group-title="cricket",donaustadt vs graz cricket academy
-https://dai.google.com/linear/hls/event/larLmYcASlaq-8UX8VQe8w/master.m3u8
-#EXTINF:-1 tvg-id="106276" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/106276_4352_BUR_BLK_fc-web_1723042859568.jpg" group-title="football",burnley vs blackburn rovers
-https://dai.google.com/linear/hls/event/N5NkRQmCRgayDFKq2kLGXQ/master.m3u8
-#EXTINF:-1 tvg-id="107628" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Betfred-British-Masters-Old.png" group-title="golf",day 3
-https://dai.google.com/linear/hls/event/qC2E4MFmSaOG2qLuLt63CA/master.m3u8
+<html><head><title>500 Internal Server Error</title></head><body>
+<h2>Request Timeout</h2>
+<p>This request takes too long to process, it is timed out by the server. If it should not be timed out, please contact administrator of this web site to increase 'Connection Timeout'.
+</p>
+</body></html>
