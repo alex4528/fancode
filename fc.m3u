@@ -1,7 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="108011" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Match-469_MLB_Old-Match-Card.jpg" group-title="baseball",san francisco giants vs miami marlins
 https://dai.google.com/linear/hls/event/DbnaUV5RRNCxTJ1htF4ASg/master.m3u8
-#EXTINF:-1 tvg-id="106959" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/106959_4396_MYN_MAS_fc-web.jpg" group-title="cricket",myanmar vs malaysia
-https://dai.google.com/linear/hls/event/RuTw2moOS0upWU1RzqCo9g/master.m3u8
 #EXTINF:-1 tvg-id="106958" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/106958_4396_MLD_SIN_fc-web.jpg" group-title="cricket",singapore vs maldives
 https://dai.google.com/linear/hls/event/_3FgTv85R8-rdj892mKXtQ/master.m3u8
