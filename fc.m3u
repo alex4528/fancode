@@ -1,3 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="107528" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/107528_4430_CCC_DST_fc-Web.jpg" group-title="cricket",donaustadt vs cricketer cc
 https://dai.google.com/linear/hls/event/KpL5iOcoQSag9rNycrWT5w/master.m3u8
+#EXTINF:-1 tvg-id="107529" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/107529_4430_GCA_CCC_fc-Web.jpg" group-title="cricket",cricketer cc vs graz cricket academy
+https://dai.google.com/linear/hls/event/P7Vhm-o1TG-l75Mkh-cSBw/master.m3u8
+#EXTINF:-1 tvg-id="105705" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/105705_3921_MZ_URW_fc-web.jpg" group-title="football",machida zelvia vs urawa red diamonds
+https://dai.fancode.com/primary/105705_english_hls_8401adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-id="108099" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Porsche-Mobil-1-Supercup_monza_Match_card_MRF_Old_match-card.jpg" group-title="motorsports",qualifying
+
