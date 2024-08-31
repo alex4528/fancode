@@ -1,7 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="104207" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/104207_4287_SKN_TKR_fc-web.jpg" group-title="cricket",trinbago knight riders vs st kitts and nevis patriots
 https://dai.google.com/linear/hls/event/Pr1710_kQMuDz-DmqfYABA/master.m3u8
-#EXTINF:-1 tvg-id="108013" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Match-471_MLB_Old-Match-Card.jpg" group-title="baseball",washington nationals vs chicago cubs
-https://dai.google.com/linear/hls/event/iB-zynyQRuOTYK2P5ozIwQ/master.m3u8
 #EXTINF:-1 tvg-id="107788" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Minor-League-Cricket-old-match-card-3.png" group-title="cricket",the philadelphians vs new england eagles
 https://dai.google.com/linear/hls/event/Ex2wJxbrSiKdUxr63eEqMQ/master.m3u8
