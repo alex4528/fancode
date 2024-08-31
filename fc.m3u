@@ -1,5 +1,7 @@
-<html><head><title>500 Internal Server Error</title></head><body>
-<h2>Request Timeout</h2>
-<p>This request takes too long to process, it is timed out by the server. If it should not be timed out, please contact administrator of this web site to increase 'Connection Timeout'.
-</p>
-</body></html>
+#EXTM3U
+#EXTINF:-1 tvg-id="108013" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Match-471_MLB_Old-Match-Card.jpg" group-title="baseball",washington nationals vs chicago cubs
+https://dai.google.com/linear/hls/event/iB-zynyQRuOTYK2P5ozIwQ/master.m3u8
+#EXTINF:-1 tvg-id="107788" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Minor-League-Cricket-old-match-card-3.png" group-title="cricket",the philadelphians vs new england eagles
+https://dai.google.com/linear/hls/event/Ex2wJxbrSiKdUxr63eEqMQ/master.m3u8
+#EXTINF:-1 tvg-id="107790" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Minor-League-Cricket-old-match-card-2.png" group-title="cricket",houston hurricanes vs lone star athletics
+https://dai.google.com/linear/hls/event/_mHBUG57R6-3tU4gdzz3yw/master.m3u8
