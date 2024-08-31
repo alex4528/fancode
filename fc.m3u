@@ -1,12 +1,16 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="95215" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/F1_Italy_Monza_Old_match-card.jpg" group-title="formula-1",qualifying
+https://dai.google.com/linear/hls/event/M9yBuAnxQK-ICUUuX8fVsw/master.m3u8
 #EXTINF:-1 tvg-id="105713" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Sri-Lanka-tour-of-England-test-old-match-cardpsd.png" group-title="cricket",england vs sri lanka
 
 #EXTINF:-1 tvg-id="106706" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/106733_4386_HT_MW_fc-web.jpg" group-title="cricket",mysore warriors vs hubli tigers
 https://dai.google.com/linear/hls/event/IHi9VRXgRimudDsLvj-5-w/master.m3u8
 #EXTINF:-1 tvg-id="107531" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/107531_4430_VID_DST_fc-Web.jpg" group-title="cricket",donaustadt vs vienna danube
 https://dai.google.com/linear/hls/event/owBVxYZ-TjmgvFQ1Y_l4Ww/master.m3u8
-#EXTINF:-1 tvg-id="106276" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/106276_4352_BUR_BLK_fc-web_1723042859568.jpg" group-title="football",burnley vs blackburn rovers
-https://dai.google.com/linear/hls/event/N5NkRQmCRgayDFKq2kLGXQ/master.m3u8
+#EXTINF:-1 tvg-id="106278" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/106278_4352_PLY_STK_fc-web_1723042859295.jpg" group-title="football",plymouth argyle vs stoke city
+https://dai.google.com/linear/hls/event/Ra4xNR-lT66_bdCnnzawTA/master.m3u8
+#EXTINF:-1 tvg-id="107786" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Minor-League-Cricket-old-match-card.png" group-title="cricket",new jersey stallions vs manhattan yorkers
+https://dai.google.com/linear/hls/event/4lPWAStMRMG-WIE102o8rg/master.m3u8
 #EXTINF:-1 tvg-id="107628" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Betfred-British-Masters-Old.png" group-title="golf",day 3
 https://dai.google.com/linear/hls/event/qC2E4MFmSaOG2qLuLt63CA/master.m3u8
 #EXTINF:-1 tvg-id="107259" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Indian-Racing-Festival_Round_2_old.jpg" group-title="motorsports",round 2 day 1
