@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="105713" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Sri-Lanka-tour-of-England-test-old-match-cardpsd.png" group-title="cricket",england vs sri lanka
 
-#EXTINF:-1 tvg-id="107534" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/107534_4430_SNA_ICCV_fc-Web.jpg" group-title="cricket",snasy vs indian cc vienna
-https://dai.google.com/linear/hls/event/726VnL84Qbe3ErYDzr3gDA/master.m3u8
+#EXTINF:-1 tvg-id="107535" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/107535_4430_GCA_LOR_fc-Web.jpg" group-title="cricket",graz cricket academy vs lords cc
+https://dai.google.com/linear/hls/event/f668aa4xQVqwofcJi5iq-A/master.m3u8
 #EXTINF:-1 tvg-id="108197" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Man-City-vs-PSG_Perth-International-Football-Cup_Old_match-card.jpg" group-title="football",manchester city women vs paris saintgermain fminines
 https://dai.fancode.com/primary/108197_english_hls_4569adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-id="105708" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/105708_3921_FKK_VIS_fc-web.jpg" group-title="football",avispa fukuoka vs vissel kobe
@@ -11,3 +11,5 @@ https://dai.fancode.com/primary/105708_english_hls_4671adfreeta-no/index.m3u8
 https://dai.google.com/linear/hls/event/YVSbRE9yTyey3BBP_dsjAg/master.m3u8
 #EXTINF:-1 tvg-id="108100" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Porsche-Mobil-1-Supercup_monza_Match_card_MRF_Old_match-card.jpg" group-title="motorsports",race
 
+#EXTINF:-1 tvg-id="107629" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Betfred-British-Masters-Old.png" group-title="golf",day 4
+https://dai.google.com/linear/hls/event/wsvxtkQLTZaAulRvGg1kRA/master.m3u8
